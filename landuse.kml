@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+  xmlns:gx="http://www.google.com/kml/ext/2.2"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>LandUse</name>
+    <visibility>1</visibility>
+    <Schema name="LandUse" id="kml_schema_ft_LandUse">
+      <SimpleField type="xsd:string" name="OBJECTID">
+        <displayName>OBJECTID</displayName>
+      </SimpleField>
+      <SimpleField type="xsd:string" name="DESIGNATION">
+        <displayName>DESIGNATION</displayName>
+      </SimpleField>
+      <SimpleField type="xsd:string" name="DESIG_URL">
+        <displayName>DESIG_URL</displayName>
+      </SimpleField>
+      <SimpleField type="xsd:double" name="Shape.STArea()">
+        <displayName>Shape.STArea()</displayName>
+      </SimpleField>
+      <SimpleField type="xsd:double" name="SHAPE.STLength()">
+        <displayName>SHAPE.STLength()</displayName>
+      </SimpleField>
+      <SimpleField type="xsd:double" name="LON">
+        <displayName>LON</displayName>
+      </SimpleField>
+      <SimpleField type="xsd:double" name="LAT">
+        <displayName>LAT</displayName>
+      </SimpleField>
+    </Schema>
+
+    <Style id="orange">
+      <LineStyle>
+        <color>ff00ccff</color> 
+        <width>1</width> 
+      </LineStyle>
+      <PolyStyle>
+        <!-- inherited from ColorStyle -->
+        <color>8f00ccff</color>            <!-- kml:color -->
+        <colorMode>normal</colorMode>      <!-- kml:colorModeEnum: normal or random -->
+
+        <!-- specific to PolyStyle -->
+        <fill>1</fill>                     <!-- boolean -->
+        <outline>1</outline>               <!-- boolean -->
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffbb</bgColor> <!-- Semi-transparent white background -->
+        <textColor>ff0000ff</textColor> <!-- Blue text color -->
+        <text>
+          <![CDATA[
+          <b>$[name]</b><br/> <!-- Display the placemark name -->
+          <font face="Arial, sans-serif">$[description]</font> <!-- Custom font for the description -->
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+    <Style id="test">
+      <LineStyle>
+        <color>ffff0000</color> 
+        <width>1</width> 
+      </LineStyle>
+      <PolyStyle>
+        <!-- inherited from ColorStyle -->
+        <color>8fff0000</color>            <!-- kml:color -->
+        <colorMode>normal</colorMode>      <!-- kml:colorModeEnum: normal or random -->
+
+        <!-- specific to PolyStyle -->
+        <fill>1</fill>                     <!-- boolean -->
+        <outline>1</outline>               <!-- boolean -->
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffbb</bgColor> <!-- Semi-transparent white background -->
+        <textColor>ff0000ff</textColor> <!-- Blue text color -->
+        <text>
+          <![CDATA[
+          <b>$[name]</b><br/> <!-- Display the placemark name -->
+          <font face="Arial, sans-serif">$[description]</font> <!-- Custom font for the description -->
+          ]]>
+        </text>
+      </BalloonStyle>
+    </Style>
+
+    <Folder id="kml_ft_LandUse">
+      <name>LandUse</name>
+      <Placemark id="kml_1">
+        <styleUrl>#test</styleUrl>
+        <name>kml_1</name>
+        <snippet></snippet>
+        <description><![CDATA[<center><table>
+<tr><th colspan='2' align='center'><em>Attributes</em></th></tr>
+
+<tr bgcolor="#E3E3F3">
+<th>Current</th>
+<th>Proposed</th>
+</tr>
+
+<tr bgcolor="#E3E3F3">
+<th colspan="2">Highest Density Permitted Use</th>
+</tr>
+<tr bgcolor="">
+<td>Row Housing</td>
+<td>Apartment</td>
+</tr>
+
+<tr bgcolor="#E3E3F3">
+<th colspan="2">Max Height</th>
+</tr>
+<tr bgcolor="">
+<td>11.5</td>
+<td>14.5</td>
+</tr>
+
+</table></center>]]></description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#kml_schema_ft_LandUse">
+            <SimpleData name="OBJECTID">1</SimpleData>
+            <SimpleData name="DESIGNATION">PE</SimpleData>
+            <SimpleData name="DESIG_URL">http://www.codepublishing.com/AB/Banff/html/banff12.html#12.8.0</SimpleData>
+            <SimpleData name="SHAPE.STLength()">654.371906707419</SimpleData>
+            <SimpleData name="LON">-115.56497294407642</SimpleData>
+            <SimpleData name="LAT">51.16902823129641</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-115.566463714568,51.1695622854232,0.0 -115.565486174017,51.1699864128213,0.0 -115.565368470011,51.1700519946255,0.0 -115.564860923412,51.169678501736,0.0 -115.564669849045,51.169557267348,0.0 -115.564362132575,51.1693904812766,0.0 -115.564045820312,51.1691580157657,0.0 -115.564176809846,51.1688952136337,0.0 -115.563569393987,51.1683893850441,0.0 -115.564614390058,51.1679111507027,0.0 -115.564664096291,51.1678881463812,0.0 -115.564673510806,51.1678951117578,0.0 -115.564682553202,51.1679022686112,0.0 -115.564691213637,51.1679096114249,0.0 -115.564699480979,51.1679171301704,0.0 -115.56470734833,51.1679248166694,0.0 -115.564714804474,51.1679326635903,0.0 -115.564721843971,51.1679406618734,0.0 -115.56472845712,51.1679488015077,0.0 -115.564734638422,51.1679570752315,0.0 -115.564740223136,51.1679652606988,0.0 -115.564745381047,51.1679735560369,0.0 -115.564750108145,51.1679819522039,0.0 -115.564754398989,51.1679904401403,0.0 -115.564758246653,51.1679990125667,0.0 -115.564761650069,51.1680076577796,0.0 -115.564764603713,51.168016369416,0.0 -115.564767105089,51.1680251357548,0.0 -115.564785101385,51.1680745564096,0.0 -115.564805765379,51.1681235628502,0.0 -115.564829075988,51.1681720972623,0.0 -115.564855006353,51.1682201035592,0.0 -115.564883523866,51.1682675264826,0.0 -115.564914597351,51.168314310792,0.0 -115.56494818991,51.1683604011761,0.0 -115.564984263132,51.168405745003,0.0 -115.565022774315,51.1684502895882,0.0 -115.565063679355,51.1684939813303,0.0 -115.56510692969,51.1685367719692,0.0 -115.565152476842,51.1685786105474,0.0 -115.565200266557,51.1686194478357,0.0 -115.565250241635,51.168659237266,0.0 -115.565302347738,51.1686979323056,0.0 -115.565356520459,51.1687354880968,0.0 -115.565412699684,51.1687718598344,0.0 -115.565470819436,51.1688070071381,0.0 -115.565530810934,51.1688408877942,0.0 -115.565592605314,51.1688734622863,0.0 -115.565656129365,51.1689046928431,0.0 -115.565727056364,51.1689433774784,0.0 -115.565795899901,51.1689835203414,0.0 -115.56586258696,51.169025077375,0.0 -115.565927043125,51.1690680036056,0.0 -115.565989196923,51.1691122513978,0.0 -115.566048981222,51.1691577713708,0.0 -115.566106328892,51.1692045141442,0.0 -115.566161177175,51.1692524276928,0.0 -115.566213466199,51.1693014591279,0.0 -115.566246143474,51.1693344164542,0.0 -115.56626313755,51.1693515546791,0.0 -115.566310135699,51.169402659712,0.0 -115.566352671931,51.1694460319517,0.0 -115.566404555112,51.1695008299265,0.0 -115.566463714568,51.1695622854232,0.0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+
+
+      <Placemark id="kml_2">
+        <styleUrl>#orange</styleUrl>
+        <name>kml_2</name>
+        <snippet></snippet>
+        <description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>DESIGNATION</th>
+<td>RMR</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DESIG_URL</th>
+<td>http://www.codepublishing.com/AB/Banff/html/banff12.html#12.18.0</td>
+</tr><tr bgcolor="">
+<th>SHAPE.STLength()</th>
+<td>763.749139959133</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LON</th>
+<td>-115.56599697663817</td>
+</tr><tr bgcolor="">
+<th>LAT</th>
+<td>51.16844333626309</td>
+</tr></table></center>]]></description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#kml_schema_ft_LandUse">
+            <SimpleData name="OBJECTID">2</SimpleData>
+            <SimpleData name="DESIGNATION">RMR</SimpleData>
+            <SimpleData name="DESIG_URL">http://www.codepublishing.com/AB/Banff/html/banff12.html#12.18.0</SimpleData>
+            <SimpleData name="SHAPE.STLength()">763.749139959133</SimpleData>
+            <SimpleData name="LON">-115.56599697663817</SimpleData>
+            <SimpleData name="LAT">51.16844333626309</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-115.567146864692,51.1689842079948,0.0 -115.566900991363,51.1690775773877,0.0 -115.566856105258,51.1690946362988,0.0 -115.566632347155,51.1691796339806,0.0 -115.566438739245,51.1692531742858,0.0 -115.566364859483,51.1692816276961,0.0 -115.566246143474,51.1693344164542,0.0 -115.566213466199,51.1693014591279,0.0 -115.566161177175,51.1692524276928,0.0 -115.566106328892,51.1692045141442,0.0 -115.566048981222,51.1691577713708,0.0 -115.565989196923,51.1691122513978,0.0 -115.565927043125,51.1690680036056,0.0 -115.56586258696,51.169025077375,0.0 -115.565795899901,51.1689835203414,0.0 -115.565727056364,51.1689433774784,0.0 -115.565656129365,51.1689046928431,0.0 -115.565592605314,51.1688734622863,0.0 -115.565530810934,51.1688408877942,0.0 -115.565470819436,51.1688070071381,0.0 -115.565412699684,51.1687718598344,0.0 -115.565356520459,51.1687354880968,0.0 -115.565302347738,51.1686979323056,0.0 -115.565250241635,51.168659237266,0.0 -115.565200266557,51.1686194478357,0.0 -115.565152476842,51.1685786105474,0.0 -115.56510692969,51.1685367719692,0.0 -115.565063679355,51.1684939813303,0.0 -115.565022774315,51.1684502895882,0.0 -115.564984263132,51.168405745003,0.0 -115.56494818991,51.1683604011761,0.0 -115.564914597351,51.168314310792,0.0 -115.564883523866,51.1682675264826,0.0 -115.564855006353,51.1682201035592,0.0 -115.564829075988,51.1681720972623,0.0 -115.564805765379,51.1681235628502,0.0 -115.564785101385,51.1680745564096,0.0 -115.564767105089,51.1680251357548,0.0 -115.564764603713,51.168016369416,0.0 -115.564761650069,51.1680076577796,0.0 -115.564758246653,51.1679990125667,0.0 -115.564754398989,51.1679904401403,0.0 -115.564750108145,51.1679819522039,0.0 -115.564745381047,51.1679735560369,0.0 -115.564740223136,51.1679652606988,0.0 -115.564734638422,51.1679570752315,0.0 -115.564792401595,51.1679221498901,0.0 -115.564912248165,51.1678737029313,0.0 -115.565015281992,51.1678394435256,0.0 -115.565181863468,51.167784064224,0.0 -115.565451447735,51.1676944236184,0.0 -115.565814973222,51.1676954922062,0.0 -115.565696431535,51.167973304086,0.0 -115.565759526199,51.1679839420224,0.0 -115.565878109029,51.1677061296858,0.0 -115.566194056344,51.1678187103716,0.0 -115.566377334449,51.1679544421379,0.0 -115.566560570983,51.1680901650064,0.0 -115.566705650567,51.1681975871755,0.0 -115.566743852944,51.1682258872374,0.0 -115.566927148569,51.1683616183338,0.0 -115.567110416644,51.1684973496971,0.0 -115.567134779073,51.1687344826243,0.0 -115.566992993619,51.1687882161496,0.0 -115.56667573036,51.1687387063102,0.0 -115.566658809279,51.1687784550334,0.0 -115.567000673378,51.1688317366508,0.0 -115.567146864692,51.1689842079948,0.0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+          <innerBoundaryIs>
+            <LinearRing>
+              <coordinates>-115.565915762065,51.1685680316351,0.0 -115.566122649839,51.1684896279974,0.0 -115.565951272466,51.168362665891,0.0 -115.565700845265,51.168457568666,0.0 -115.565476949666,51.16854241857,0.0 -115.565663859323,51.168663474697,0.0 -115.565915762065,51.1685680316351,0.0</coordinates>
+            </LinearRing>
+          </innerBoundaryIs>
+        </Polygon>
+      </Placemark>
+
+
+      <Placemark id="kml_3">
+        <styleUrl>#test</styleUrl>
+        <name>kml_3</name>
+        <snippet></snippet>
+        <description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>DESIGNATION</th>
+<td>PP</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>DESIG_URL</th>
+<td>http://www.codepublishing.com/AB/Banff/html/banff12.html#12.9.0</td>
+</tr><tr bgcolor="">
+<th>SHAPE.STLength()</th>
+<td>113.466895752555</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>LON</th>
+<td>-115.56580319150056</td>
+</tr><tr bgcolor="">
+<th>LAT</th>
+<td>51.16851420210238</td>
+</tr></table></center>]]></description>
+        <ExtendedData>
+          <SchemaData schemaUrl="#kml_schema_ft_LandUse">
+            <SimpleData name="OBJECTID">3</SimpleData>
+            <SimpleData name="DESIGNATION">PP</SimpleData>
+            <SimpleData name="DESIG_URL">http://www.codepublishing.com/AB/Banff/html/banff12.html#12.9.0</SimpleData>
+            <SimpleData name="SHAPE.STLength()">113.466895752555</SimpleData>
+            <SimpleData name="LON">-115.56580319150056</SimpleData>
+            <SimpleData name="LAT">51.16851420210238</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-115.565663859323,51.168663474697,0.0 -115.565476949666,51.16854241857,0.0 -115.565700845265,51.168457568666,0.0 -115.565951272466,51.168362665891,0.0 -115.566122649839,51.1684896279974,0.0 -115.565915762065,51.1685680316351,0.0 -115.565663859323,51.168663474697,0.0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
