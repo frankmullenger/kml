@@ -33,8 +33,8 @@
 
     <Style id="orange">
       <LineStyle>
-        <color>ff00ccff</color> 
-        <width>1</width> 
+        <color>ff00ccff</color>
+        <width>1</width>
       </LineStyle>
       <PolyStyle>
         <!-- inherited from ColorStyle -->
@@ -59,8 +59,8 @@
 
     <Style id="test">
       <LineStyle>
-        <color>ffff0000</color> 
-        <width>1</width> 
+        <color>ffff0000</color>
+        <width>1</width>
       </LineStyle>
       <PolyStyle>
         <!-- inherited from ColorStyle -->
@@ -182,47 +182,6 @@
       </Placemark>
 
 
-      <Placemark id="kml_3">
-        <styleUrl>#test</styleUrl>
-        <name>kml_3</name>
-        <snippet></snippet>
-        <description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>OBJECTID</th>
-<td>3</td>
-</tr><tr bgcolor="">
-<th>DESIGNATION</th>
-<td>PP</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>DESIG_URL</th>
-<td>http://www.codepublishing.com/AB/Banff/html/banff12.html#12.9.0</td>
-</tr><tr bgcolor="">
-<th>SHAPE.STLength()</th>
-<td>113.466895752555</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LON</th>
-<td>-115.56580319150056</td>
-</tr><tr bgcolor="">
-<th>LAT</th>
-<td>51.16851420210238</td>
-</tr></table></center>]]></description>
-        <ExtendedData>
-          <SchemaData schemaUrl="#kml_schema_ft_LandUse">
-            <SimpleData name="OBJECTID">3</SimpleData>
-            <SimpleData name="DESIGNATION">PP</SimpleData>
-            <SimpleData name="DESIG_URL">http://www.codepublishing.com/AB/Banff/html/banff12.html#12.9.0</SimpleData>
-            <SimpleData name="SHAPE.STLength()">113.466895752555</SimpleData>
-            <SimpleData name="LON">-115.56580319150056</SimpleData>
-            <SimpleData name="LAT">51.16851420210238</SimpleData>
-          </SchemaData>
-        </ExtendedData>
-        <Polygon>
-          <outerBoundaryIs>
-            <LinearRing>
-              <coordinates>-115.565663859323,51.168663474697,0.0 -115.565476949666,51.16854241857,0.0 -115.565700845265,51.168457568666,0.0 -115.565951272466,51.168362665891,0.0 -115.566122649839,51.1684896279974,0.0 -115.565915762065,51.1685680316351,0.0 -115.565663859323,51.168663474697,0.0</coordinates>
-            </LinearRing>
-          </outerBoundaryIs>
-        </Polygon>
-      </Placemark>
     </Folder>
   </Document>
 </kml>
