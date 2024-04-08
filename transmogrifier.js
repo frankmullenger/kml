@@ -7,7 +7,7 @@ const csvFilePath = 'src/metadata-raw.csv';
 const kmlFilePath = 'src/landuse-raw.kml';
 const templatePath = 'src/template.html';
 const outputKmlFilePath = 'dist/landuse-example.kml';
-const outputTemplatePath = 'template-example.html';
+const outputTemplatePath = 'dist/template-example.html';
 
 Handlebars.registerHelper('nl2br', function(text) {
   const escapedText = Handlebars.Utils.escapeExpression(text);
@@ -36,9 +36,12 @@ fs.createReadStream(csvFilePath)
       // Update Placemark descriptions based on CSV data
       placemarks.forEach(placemark => {
         const id = placemark._attributes.id;
-        const matchingRow = csvData.find(row => row['Land Use ID'] === id);
+        const matchingRow = csvData.find(row => row['Placemark ID'] === id);
         if (matchingRow) {
           placemark.description = {_cdata: formatDescriptionAsTable(matchingRow)};
+        }
+        else {
+          placemark.description = {_cdata: ''};
         }
       });
 
@@ -56,14 +59,14 @@ fs.createReadStream(csvFilePath)
 
 function formatDescriptionAsTable(row) {
 
+  console.log(row);
+
   // Compile the source template
   const source = fs.readFileSync(templatePath, 'utf8');
   const compiledTemplate = Handlebars.compile(source);
 
   // Execute the compiled template function with the row data
   const result = compiledTemplate(row);
-
-  console.log(row);
 
   fs.writeFileSync(outputTemplatePath, result, err => {
       if (err) {
