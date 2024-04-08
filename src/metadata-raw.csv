@@ -1,0 +1,38 @@
+Land Use ID,Name,Current LUB District,Change of Land Use District,Proposed LUD ,Current Permitted Use,Current Discretionary Use,Current Max FAR,Current Max Height,Current Min Landscaping Requirement,Current Min Front Yard Setback,Current Min Rear Yard Setback,Current Min Side Yard Setback,Column1,Proposed LUB District,Proposed Residential Group,Proposed Permitted Use,Proposed Discretionary Use,Proposed Max FAR,Proposed Max Height,Proposed Min Landscaping Requirement,Proposed Min Front Yard Setback,Proposed Min Rear Yard Setback,Proposed Min Side Yard Setback
+kml_1,Coyote Lane area,RBA: Banff Avenue District ,Same ,,"Apartment housing
+Fourplex housing"," Bed and breakfast homes
+Group homes
+Home occupations type 1 Stacked row housing
+Row housing
+Duplex housing
+Single detached housing
+Accessory dwelling",1.3,11.5m,30%,4m,4.5m,2m,,,High,"Accessory dwelling housing
+Apartment housing
+Fourplex housing
+Multiplex housing","Assisted living housing            
+Duplex housing                       
+Single detached housing              
+Triplex Housing",1.6,14.5m,30%,4m,2m,1.8m
+kml_2,East side of Banff Ave,RBA: Banff Avenue District ,Same ,,"Apartment housing
+Fourplex housing"," Bed and breakfast homes
+Group homes
+Home occupations type 1 Stacked row housing
+Row housing
+Duplex housing
+Single detached housing
+Accessory dwelling",1.3,11.5m,30%,4m,4.5m,2m,,,High ,"Accessory dwelling housing
+Apartment housing
+Fourplex housing
+Multiplex housing","Assisted living housing            
+Duplex housing                       
+Single detached housing              
+Triplex Housing",1.6,14.5m,30%,4m,2m,1.8m
+kml_3,Banff Springs residential,RBS: Banff Springs District ,Same ,,"Apartment housing
+Stacked row housing
+Row housing",Home Occupations type 1,Not specified,14m,40%,9m,3.5m,4.5m,,,High,"Accessory dwelling housing
+Apartment housing
+Fourplex housing
+Multiplex housing","Assisted living housing            
+Duplex housing                       
+Single detached housing              
+Triplex Housing",1.6,14.5m,30%,4m,2m,1.8m
