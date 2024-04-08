@@ -10654,29 +10654,29 @@
   </Folder>
   <Style id="PolyStyle00">
     <LabelStyle>
-      <color>7f000000</color>
+      <color>c8000000</color>
       <scale>0.000000</scale>
     </LabelStyle>
     <LineStyle>
-      <color>7f6e6e6e</color>
+      <color>c86e6e6e</color>
       <width>0.700000</width>
     </LineStyle>
     <PolyStyle>
-      <color>7fffe1d5</color>
+      <color>c8ffe1d5</color>
       <outline>1</outline>
     </PolyStyle>
   </Style>
   <Style id="PolyStyle018">
     <LabelStyle>
-      <color>7f000000</color>
+      <color>c8000000</color>
       <scale>0.000000</scale>
     </LabelStyle>
     <LineStyle>
-      <color>7f6e6e6e</color>
+      <color>c86e6e6e</color>
       <width>0.700000</width>
     </LineStyle>
     <PolyStyle>
-      <color>7fb3fdc9</color>
+      <color>c8b3fdc9</color>
       <outline>1</outline>
     </PolyStyle>
   </Style>
