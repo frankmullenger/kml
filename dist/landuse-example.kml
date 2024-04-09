@@ -33,18 +33,6 @@
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00001</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">1</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">Glen Crescent</td>
-    </tr>
-    <tr>
         <td>LUB District</td>
         <td>RMR: Marmot/ Rundle District</td>
         <td>RMR: Marmot/ Rundle District</td>
@@ -90,6 +78,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00001</span>
+<span>Land Use ID: 1</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
@@ -272,18 +265,6 @@
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00011</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">2</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">Coyote Lane area</td>
-    </tr>
-    <tr>
         <td>LUB District</td>
         <td>RBA: Banff Avenue District </td>
         <td></td>
@@ -329,6 +310,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00011</span>
+<span>Land Use ID: 2</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
@@ -460,18 +446,6 @@
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00018</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">3</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">Most of Rainbow Ave and Park Ave</td>
-    </tr>
-    <tr>
         <td>LUB District</td>
         <td>RRA: Rainbow Avenue District</td>
         <td>RRA: Rainbow Avenue District</td>
@@ -517,6 +491,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00018</span>
+<span>Land Use ID: 3</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle018</styleUrl>
                 <MultiGeometry>
@@ -539,18 +518,6 @@
         <th></th>
         <th>Current</th>
         <th>Proposed</th>
-    </tr>
-    <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00019</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">4</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">Spray Ave, Kootenay Ave and Mountain Ave</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -598,6 +565,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00019</span>
+<span>Land Use ID: 4</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
@@ -620,18 +592,6 @@
         <th></th>
         <th>Current</th>
         <th>Proposed</th>
-    </tr>
-    <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00020</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">5</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">Southeast of YWCA</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -679,6 +639,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00020</span>
+<span>Land Use ID: 5</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
@@ -701,18 +666,6 @@
         <th></th>
         <th>Current</th>
         <th>Proposed</th>
-    </tr>
-    <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00021</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">6</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">South part of Muskrat</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -760,6 +713,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00021</span>
+<span>Land Use ID: 6</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
@@ -782,18 +740,6 @@
         <th></th>
         <th>Current</th>
         <th>Proposed</th>
-    </tr>
-    <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00022</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">7</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">East-central grid residential</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -841,6 +787,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00022</span>
+<span>Land Use ID: 7</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle018</styleUrl>
                 <MultiGeometry>
@@ -863,18 +814,6 @@
         <th></th>
         <th>Current</th>
         <th>Proposed</th>
-    </tr>
-    <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00023</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">8</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">East of Bow Ave</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -922,6 +861,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00023</span>
+<span>Land Use ID: 8</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
@@ -961,18 +905,6 @@
         <th></th>
         <th>Current</th>
         <th>Proposed</th>
-    </tr>
-    <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00025</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">9</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">East side of Banff Ave</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -1020,6 +952,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00025</span>
+<span>Land Use ID: 9</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
@@ -1129,18 +1066,6 @@
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00031</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">10</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">Sulphur Court</td>
-    </tr>
-    <tr>
         <td>LUB District</td>
         <td>RMSII(b): Middle Springs II(b) District</td>
         <td>RMSII(b): Middle Springs II(b) District</td>
@@ -1186,6 +1111,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00031</span>
+<span>Land Use ID: 10</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
@@ -1208,18 +1138,6 @@
         <th></th>
         <th>Current</th>
         <th>Proposed</th>
-    </tr>
-    <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00032</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">11</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">Middle Springs Dr between Fairholme Pl and Sulphur Court</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -1267,6 +1185,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00032</span>
+<span>Land Use ID: 11</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
@@ -1289,18 +1212,6 @@
         <th></th>
         <th>Current</th>
         <th>Proposed</th>
-    </tr>
-    <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00033</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">12</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">Fairholme Pl</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -1348,6 +1259,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00033</span>
+<span>Land Use ID: 12</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
@@ -1474,18 +1390,6 @@
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00040</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">13</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">Cave Ave area</td>
-    </tr>
-    <tr>
         <td>LUB District</td>
         <td>RCA: Cave Avenue District</td>
         <td>RCA: Cave Avenue District</td>
@@ -1531,6 +1435,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00040</span>
+<span>Land Use ID: 13</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
@@ -1553,18 +1462,6 @@
         <th></th>
         <th>Current</th>
         <th>Proposed</th>
-    </tr>
-    <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00041</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">14</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">Glacier Dr and Jasper Wy</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -1612,6 +1509,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00041</span>
+<span>Land Use ID: 14</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle018</styleUrl>
                 <MultiGeometry>
@@ -1670,18 +1572,6 @@
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00044</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">15</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">Co-op</td>
-    </tr>
-    <tr>
         <td>LUB District</td>
         <td>RWB: West Birch District</td>
         <td>RWB: West Birch District</td>
@@ -1727,6 +1617,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00044</span>
+<span>Land Use ID: 15</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
@@ -1749,18 +1644,6 @@
         <th></th>
         <th>Current</th>
         <th>Proposed</th>
-    </tr>
-    <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00045</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">16</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">Cascade Ct, Lougheed Ci, Spring Cr</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -1808,6 +1691,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00045</span>
+<span>Land Use ID: 16</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
@@ -1830,18 +1718,6 @@
         <th></th>
         <th>Current</th>
         <th>Proposed</th>
-    </tr>
-    <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00046</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">17</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">Banff Springs residential</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -1889,6 +1765,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00046</span>
+<span>Land Use ID: 17</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
@@ -1911,18 +1792,6 @@
         <th></th>
         <th>Current</th>
         <th>Proposed</th>
-    </tr>
-    <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00047</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">18</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">East end of Banff Springs Hotel</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -1970,6 +1839,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00047</span>
+<span>Land Use ID: 18</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
@@ -2045,18 +1919,6 @@
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00051</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">19</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">West end of Middle Springs Dr</td>
-    </tr>
-    <tr>
         <td>LUB District</td>
         <td>RMSII(e):Middle Springs II(e) District</td>
         <td>RMSII(e):Middle Springs II(e) District</td>
@@ -2102,6 +1964,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00051</span>
+<span>Land Use ID: 19</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
@@ -2160,18 +2027,6 @@
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00054</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">20</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">North side of Cougar between Rabbit and Fox</td>
-    </tr>
-    <tr>
         <td>LUB District</td>
         <td>RSC:Squirrel/ Cougar District</td>
         <td>RSC:Squirrel/ Cougar District</td>
@@ -2217,6 +2072,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00054</span>
+<span>Land Use ID: 20</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
@@ -2256,18 +2116,6 @@
         <th></th>
         <th>Current</th>
         <th>Proposed</th>
-    </tr>
-    <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00056</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">21</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">South of Antelope Lane and Otter Lane</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -2315,6 +2163,11 @@
         <td></td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00056</span>
+<span>Land Use ID: 21</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
@@ -2390,18 +2243,6 @@
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00060</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">22</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">Nahanni Dr and Kluane Dr</td>
-    </tr>
-    <tr>
         <td>LUB District</td>
         <td>RVV: Valley View District</td>
         <td>RVV: Valley View District</td>
@@ -2447,6 +2288,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00060</span>
+<span>Land Use ID: 22</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
@@ -2527,18 +2373,6 @@
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00064</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">23</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">East end of Buffalo St</td>
-    </tr>
-    <tr>
         <td>LUB District</td>
         <td>RRF: River Front District</td>
         <td>RTM: Tunnel Mountain District</td>
@@ -2584,6 +2418,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00064</span>
+<span>Land Use ID: 23</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle018</styleUrl>
                 <MultiGeometry>
@@ -2642,18 +2481,6 @@
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00067</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">24</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">Sundance Ct</td>
-    </tr>
-    <tr>
         <td>LUB District</td>
         <td>RMSII(f): Middle Springs II(f) District</td>
         <td>RMSII(f): Middle Springs II(f) District</td>
@@ -2699,6 +2526,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00067</span>
+<span>Land Use ID: 24</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
@@ -2808,18 +2640,6 @@
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00073</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">25</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">Elk, Squirrel, Big Horn area</td>
-    </tr>
-    <tr>
         <td>LUB District</td>
         <td>RSC:Squirrel/ Cougar District</td>
         <td>RSC:Squirrel/ Cougar District</td>
@@ -2865,6 +2685,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00073</span>
+<span>Land Use ID: 25</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
@@ -2887,18 +2712,6 @@
         <th></th>
         <th>Current</th>
         <th>Proposed</th>
-    </tr>
-    <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00074</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">26</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">Marten St from Wolf to halfway between Fox and Rabbit</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -2946,6 +2759,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00074</span>
+<span>Land Use ID: 26</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
@@ -3004,18 +2822,6 @@
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00077</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">27</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">Antelope Lane and Otter Lane</td>
-    </tr>
-    <tr>
         <td>LUB District</td>
         <td>RTR: Tatanga Ridge District</td>
         <td>RTR: Tatanga Ridge District</td>
@@ -3061,6 +2867,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00077</span>
+<span>Land Use ID: 27</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
@@ -3083,18 +2894,6 @@
         <th></th>
         <th>Current</th>
         <th>Proposed</th>
-    </tr>
-    <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00078</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">28</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">Cougar St and south of north leg of Marmot Cr</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -3142,6 +2941,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00078</span>
+<span>Land Use ID: 28</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle018</styleUrl>
                 <MultiGeometry>
@@ -3200,18 +3004,6 @@
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00081</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">29</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">Marmot Pl cul-de-sac</td>
-    </tr>
-    <tr>
         <td>LUB District</td>
         <td>RMR: Marmot/ Rundle District</td>
         <td>RMR: Marmot/ Rundle District</td>
@@ -3257,6 +3049,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00081</span>
+<span>Land Use ID: 29</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle018</styleUrl>
                 <MultiGeometry>
@@ -3279,18 +3076,6 @@
         <th></th>
         <th>Current</th>
         <th>Proposed</th>
-    </tr>
-    <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00082</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">30</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">Cougar St between Fox and south leg of Marmot Cr as well as Whiskey Jack Cr</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -3338,6 +3123,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00082</span>
+<span>Land Use ID: 30</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle018</styleUrl>
                 <MultiGeometry>
@@ -3377,18 +3167,6 @@
         <th></th>
         <th>Current</th>
         <th>Proposed</th>
-    </tr>
-    <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00084</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">31</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">Porcupine and Pika</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -3436,6 +3214,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00084</span>
+<span>Land Use ID: 31</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
@@ -3511,18 +3294,6 @@
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00088</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">32</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">East side of St. Julien Rd</td>
-    </tr>
-    <tr>
         <td>LUB District</td>
         <td>RTM: Tunnel Mountain District</td>
         <td>RTM: Tunnel Mountain District</td>
@@ -3568,6 +3339,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00088</span>
+<span>Land Use ID: 32</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle018</styleUrl>
                 <MultiGeometry>
@@ -3590,18 +3366,6 @@
         <th></th>
         <th>Current</th>
         <th>Proposed</th>
-    </tr>
-    <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00089</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">33</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">West end of south side of Buffalo Street</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -3649,6 +3413,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00089</span>
+<span>Land Use ID: 33</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle018</styleUrl>
                 <MultiGeometry>
@@ -3673,18 +3442,6 @@
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00090</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">34</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">Rectangle between slopes and Rainbow Ave</td>
-    </tr>
-    <tr>
         <td>LUB District</td>
         <td>RMSI: Middle Springs I District</td>
         <td>RRA: Rainbow Avenue District</td>
@@ -3730,6 +3487,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00090</span>
+<span>Land Use ID: 34</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle018</styleUrl>
                 <MultiGeometry>
@@ -3754,18 +3516,6 @@
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00091</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">35</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">West end of west Park Ave</td>
-    </tr>
-    <tr>
         <td>LUB District</td>
         <td>RMSI: Middle Springs I District</td>
         <td>RRA: Rainbow Avenue District</td>
@@ -3811,6 +3561,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00091</span>
+<span>Land Use ID: 35</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle018</styleUrl>
                 <MultiGeometry>
@@ -3833,18 +3588,6 @@
         <th></th>
         <th>Current</th>
         <th>Proposed</th>
-    </tr>
-    <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00092</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">36</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">East Marmot Crescent parcels</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -3892,6 +3635,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00092</span>
+<span>Land Use ID: 36</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle018</styleUrl>
                 <MultiGeometry>
@@ -3916,18 +3664,6 @@
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00093</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">37</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">Deer Street area</td>
-    </tr>
-    <tr>
         <td>LUB District</td>
         <td>RTM: Tunnel Mountain District</td>
         <td>RNC: North Central District</td>
@@ -3973,6 +3709,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00093</span>
+<span>Land Use ID: 37</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle018</styleUrl>
                 <MultiGeometry>
@@ -3997,18 +3738,6 @@
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>Placemark ID</td>
-        <td colspan="2">ID_00094</td>
-    </tr>
-    <tr>
-        <td>Land Use ID</td>
-        <td colspan="2">38</td>
-    </tr>
-    <tr>
-        <td>Name</td>
-        <td colspan="2">Beginnings of slopes of Tunnel Mountain, south end</td>
-    </tr>
-    <tr>
         <td>LUB District</td>
         <td>RTM: Tunnel Mountain District</td>
         <td>RNC: North Central District</td>
@@ -4054,6 +3783,11 @@
         <td>1.8m</td>
     </tr>
 </table>
+
+<!--
+<span>Placemark ID: ID_00094</span>
+<span>Land Use ID: 38</span>
+-->
 ]]></description>
                 <styleUrl>#PolyStyle018</styleUrl>
                 <MultiGeometry>
