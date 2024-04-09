@@ -85,7 +85,7 @@ function formatStyle(row) {
   const type = row['Proposed Residential Group'].trim();
   console.log(type);
 
-  const style = "PolyStyle" + type;
+  const style = "#PolyStyle" + type;
   console.log(style);
 
   return style;
