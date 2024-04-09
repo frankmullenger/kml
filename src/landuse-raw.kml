@@ -10680,5 +10680,47 @@
       <outline>1</outline>
     </PolyStyle>
   </Style>
+  <Style id="PolyStyleHigh">
+      <LabelStyle>
+          <color>d2000000</color>
+          <scale>0.000000</scale>
+      </LabelStyle>
+      <LineStyle>
+          <color>d25f2e34</color>
+          <width>0.700000</width>
+      </LineStyle>
+      <PolyStyle>
+          <color>d2BD5C67</color>
+          <outline>1</outline>
+      </PolyStyle>
+  </Style>
+  <Style id="PolyStyleMedium">
+      <LabelStyle>
+          <color>d2000000</color>
+          <scale>0.000000</scale>
+      </LabelStyle>
+      <LineStyle>
+          <color>d2744a40</color>
+          <width>0.700000</width>
+      </LineStyle>
+      <PolyStyle>
+          <color>d2E8937F</color>
+          <outline>1</outline>
+      </PolyStyle>
+  </Style>
+  <Style id="PolyStyleLow">
+      <LabelStyle>
+          <color>d2000000</color>
+          <scale>0.000000</scale>
+      </LabelStyle>
+      <LineStyle>
+          <color>d2746a48</color>
+          <width>0.700000</width>
+      </LineStyle>
+      <PolyStyle>
+          <color>d2E7D490</color>
+          <outline>1</outline>
+      </PolyStyle>
+  </Style>
 </Document>
 </kml>

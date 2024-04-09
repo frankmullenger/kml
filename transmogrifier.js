@@ -39,6 +39,7 @@ fs.createReadStream(csvFilePath)
         const matchingRow = csvData.find(row => row['Placemark ID'] === id);
         if (matchingRow) {
           placemark.description = {_cdata: formatDescriptionAsTable(matchingRow)};
+          placemark.styleUrl = {_text: formatStyle(matchingRow)};
         }
         else {
           placemark.description = {_cdata: 'No Data'};
@@ -77,4 +78,15 @@ function formatDescriptionAsTable(row) {
   });
 
   return result;
+}
+
+function formatStyle(row) {
+
+  const type = row['Proposed Residential Group'].trim();
+  console.log(type);
+
+  const style = "PolyStyle" + type;
+  console.log(style);
+
+  return style;
 }
