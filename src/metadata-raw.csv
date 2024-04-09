@@ -9,9 +9,9 @@ Single detached housing
 Accessory dwelling",1.3,11.5m,30%,4m,4.5m,2m,,,High,"Accessory dwelling housing
 Apartment housing
 Fourplex housing
-Multiplex housing","Assisted living housing            
-Duplex housing                       
-Single detached housing              
+Multiplex housing","Assisted living housing
+Duplex housing
+Single detached housing
 Triplex Housing",1.6,14.5m,30%,4m,2m,1.8m
 ID_00025,9,East side of Banff Ave,RBA: Banff Avenue District ,Same ,,"Apartment housing
 Fourplex housing"," Bed and breakfast homes
@@ -23,18 +23,18 @@ Single detached housing
 Accessory dwelling",1.3,11.5m,30%,4m,4.5m,2m,,,High ,"Accessory dwelling housing
 Apartment housing
 Fourplex housing
-Multiplex housing","Assisted living housing            
-Duplex housing                       
-Single detached housing              
+Multiplex housing","Assisted living housing
+Duplex housing
+Single detached housing
 Triplex Housing",1.6,14.5m,30%,4m,2m,1.8m
 ID_00046,17,Banff Springs residential,RBS: Banff Springs District ,Same ,,"Apartment housing
 Stacked row housing
 Row housing",Home Occupations type 1,Not specified,14m,40%,9m,3.5m,4.5m,,,High,"Accessory dwelling housing
 Apartment housing
 Fourplex housing
-Multiplex housing","Assisted living housing            
-Duplex housing                       
-Single detached housing              
+Multiplex housing","Assisted living housing
+Duplex housing
+Single detached housing
 Triplex Housing",1.6,14.5m,30%,4m,2m,1.8m
 ID_00040,13,Cave Ave area,RCA: Cave Avenue District,Same,,"Duplex housing
 Triplex housing
@@ -48,8 +48,8 @@ Single detached housing
 Stacked row housing
 Accessory dwelling.",0.6,9m,50%,6.0m,3.0m,2.4m,,RCA: Cave Avenue District,Medium,"Accessory dwelling housing
 Fourplex housing
-Multiplex housing       
-Triplex housing","Apartment Housing 
+Multiplex housing
+Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
@@ -62,16 +62,16 @@ Duplex housing
 Triplex housing
  Group homes
 Home occupations type 1
-Home occupations type 2         
+Home occupations type 2
 Row housing
 Single detached housing
-Senior citizen housing   
+Senior citizen housing
 Accessory dwelling",1.3,11m/9m,40%,4m,4.5m,1.8m,,RCM: Central Muskrat District,High,"Accessory dwelling housing
 Apartment housing
 Fourplex housing
-Multiplex housing","Assisted living housing            
-Duplex housing                       
-Single detached housing              
+Multiplex housing","Assisted living housing
+Duplex housing
+Single detached housing
 Triplex Housing",1.6,14.5m,30%,4m,2m,1.8m
 ID_00082,30,Cougar St between Fox and south leg of Marmot Cr as well as Whiskey Jack Cr,RCN: Cougar North District,Change,," Public park
  Row housing","Apartment housing
@@ -80,9 +80,9 @@ Home occupations type 2
 Stacked row housing",0.5,9m,40%,Not specified,Not specified,Not specified,,RCR: Cougar/ Rabbit District,High,"Accessory dwelling housing
 Apartment housing
 Fourplex housing
-Multiplex housing","Assisted living housing            
-Duplex housing                       
-Single detached housing              
+Multiplex housing","Assisted living housing
+Duplex housing
+Single detached housing
 Triplex Housing",1.6,14.5m,30%,4m,2m,1.8m
 ID_00078,28,Cougar St and south of north leg of Marmot Cr,RCN: Cougar North District,Change,," Public park
  Row housing","Apartment housing
@@ -91,9 +91,9 @@ Home occupations type 2
 Stacked row housing",0.5,9m,40%,Not specified,Not specified,Not specified,,RCR: Cougar/ Rabbit District,High,"Accessory dwelling housing
 Apartment housing
 Fourplex housing
-Multiplex housing","Assisted living housing            
-Duplex housing                       
-Single detached housing              
+Multiplex housing","Assisted living housing
+Duplex housing
+Single detached housing
 Triplex Housing",1.6,14.5m,30%,4m,2m,1.8m
 ID_00084,31,Porcupine and Pika,RCN: Cougar North District,Same,#VALUE!," Public park
  Row housing","Apartment housing
@@ -101,8 +101,8 @@ Home occupations type 1
 Home occupations type 2
 Stacked row housing",0.5,9m,40%,Not specified,Not specified,Not specified,,RCN:Cougar North District,Medium,"Accessory dwelling housing
 Fourplex housing
-Multiplex housing       
-Triplex housing","Apartment Housing 
+Multiplex housing
+Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
@@ -122,19 +122,19 @@ Single detached housing
 Accessory dwelling",1.2,11m/9m,40%,4m,4.5m,2m,,RCR: Cougar/ Rabbit District,High,"Accessory dwelling housing
 Apartment housing
 Fourplex housing
-Multiplex housing","Assisted living housing            
-Duplex housing                       
-Single detached housing              
+Multiplex housing","Assisted living housing
+Duplex housing
+Single detached housing
 Triplex Housing",1.6,14.5m,30%,4m,2m,1.8m
-ID_00020,5,Southeast of YWCA,RGA: Glen Avenue District,Same,,"Public parks                                                     
+ID_00020,5,Southeast of YWCA,RGA: Glen Avenue District,Same,,"Public parks
 Duplex housing
 Row housing","Single detached, Fourplex, or Stacked row housing
 Home occupations type 1
 Utility services
 Accessory dwelling",0.5,10m,30%,6 or 3m,Not specified,2m,,RGA: Glen Avenue District,Medium,"Accessory dwelling housing
 Fourplex housing
-Multiplex housing       
-Triplex housing","Apartment Housing 
+Multiplex housing
+Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5,35%,4m,2m,1.8m
@@ -157,9 +157,9 @@ Home occupations type 2
 Accessory dwelling",0.7,9m,45%,4m,4.5m,1.8m,,RCR: Cougar/ Rabbit District,High,"Accessory dwelling housing
 Apartment housing
 Fourplex housing
-Multiplex housing","Assisted living housing            
-Duplex housing                       
-Single detached housing              
+Multiplex housing","Assisted living housing
+Duplex housing
+Single detached housing
 Triplex Housing",1.6,14.5m,30%,4m,2m,1.8m
 ID_00045,16,"Cascade Ct, Lougheed Ci, Spring Cr",RMR: Marmot/ Rundle District,Same,,"Public parks
 Duplex housing","Single detached housing
@@ -207,8 +207,8 @@ Single detached housing",0.9,10.0 m,40%,4m,2m,1.8m
 ID_00032,11,Middle Springs Dr between Fairholme Pl and Sulphur Court,RMSII(c);Middle Springs II (c) District,Same,,Row houses/Row houses with Accessory Dwellings,"Home occupations type 1
 Public Parks",1,10m,40%,4m,4.5m,1.8m,,RMSII(c);Middle Springs II (c) District,Medium,"Accessory dwelling housing
 Fourplex housing
-Multiplex housing       
-Triplex housing","Apartment Housing 
+Multiplex housing
+Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
@@ -238,8 +238,8 @@ ID_00067,24,Sundance Ct,RMSII(f): Middle Springs II(f) District,Same,,Row housin
 Home occupations type I
 Public parks",1,10m,45%,3.8m,4.5m,1.8m,,RMSII(f): Middle Springs II(f) District,Medium,"Accessory dwelling housing
 Fourplex housing
-Multiplex housing       
-Triplex housing","Apartment Housing 
+Multiplex housing
+Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
@@ -254,8 +254,8 @@ Home occupations type 2
 Single detached housing
 Accessory dwelling",0.8,9m,40%,4m,4.5m,1.8m,,RNC: North Central District,Medium,"Accessory dwelling housing
 Fourplex housing
-Multiplex housing       
-Triplex housing","Apartment Housing 
+Multiplex housing
+Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
@@ -267,8 +267,8 @@ Home occupations type 1
 Home occupations type 2
 Single detached housing",0.45,9m,50%,4m,4.5m,2m,,RRA: Rainbow Avenue District,Medium,"Accessory dwelling housing
 Fourplex housing
-Multiplex housing       
-Triplex housing","Apartment Housing 
+Multiplex housing
+Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
@@ -280,8 +280,8 @@ Home occupations type 1
 Home occupations type 2
 Single detached housing",0.45,9m,50%,4m,4.5m,2m,,RRA: Rainbow Avenue District,Medium,"Accessory dwelling housing
 Fourplex housing
-Multiplex housing       
-Triplex housing","Apartment Housing 
+Multiplex housing
+Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
@@ -293,8 +293,8 @@ Home occupations type 1
 Home occupations type 2
 Single detached housing",0.45,9m,50%,4m,4.5m,2m,,RRA: Rainbow Avenue District,Medium,"Accessory dwelling housing
 Fourplex housing
-Multiplex housing       
-Triplex housing","Apartment Housing 
+Multiplex housing
+Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
@@ -305,8 +305,8 @@ Home occupations type 1
 Home occupations type 2
 Single detached housing",0.45,8m,50%,6m,4.5m,2m,,RRF: River Front District,Medium,"Accessory dwelling housing
 Fourplex housing
-Multiplex housing       
-Triplex housing","Apartment Housing 
+Multiplex housing
+Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
@@ -328,8 +328,8 @@ Home occupations type 1
 Home occupations type 2
 Single detached housing",0.45,8m,50%,6m,4.5m,2m,,RRF: River Front District,Medium,"Accessory dwelling housing
 Fourplex housing
-Multiplex housing       
-Triplex housing","Apartment Housing 
+Multiplex housing
+Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
@@ -340,8 +340,8 @@ Home occupations type 1
 Home occupations type 2
 Single detached housing",0.45,8m,50%,6m,4.5m,2m,,RRF: River Front District,Medium,"Accessory dwelling housing
 Fourplex housing
-Multiplex housing       
-Triplex housing","Apartment Housing 
+Multiplex housing
+Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
@@ -351,8 +351,8 @@ Bed and breakfast homes
 Home occupations type 1
 Single detached housing",0.5,9m,50%,6m,4.5m,2m,,RSA: Spray Avenue District,Medium,"Accessory dwelling housing
 Fourplex housing
-Multiplex housing       
-Triplex housing","Apartment Housing 
+Multiplex housing
+Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
@@ -367,9 +367,9 @@ Fourplex housing
 Single detached housing",0.7,9m,50%,4m,4.5m,2m,,RSC:Squirrel/ Cougar District,High,"Accessory dwelling housing
 Apartment housing
 Fourplex housing
-Multiplex housing","Assisted living housing            
-Duplex housing                       
-Single detached housing              
+Multiplex housing","Assisted living housing
+Duplex housing
+Single detached housing
 Triplex Housing",1.6,14.5m,30%,4m,2m,1.8m
 ID_00054,20,North side of Cougar between Rabbit and Fox,RSC:Squirrel/ Cougar District,Same,,"Duplex housing
 Public parks","Accessory dwelling
@@ -382,9 +382,9 @@ Fourplex housing
 Single detached housing",0.7,9m,50%,4m,4.5m,2m,,RSC:Squirrel/ Cougar District,High,"Accessory dwelling housing
 Apartment housing
 Fourplex housing
-Multiplex housing","Assisted living housing            
-Duplex housing                       
-Single detached housing              
+Multiplex housing","Assisted living housing
+Duplex housing
+Single detached housing
 Triplex Housing",1.6,14.5m,30%,4m,2m,1.8m
 ID_00093,37,Deer Street area,RTM: Tunnel Mountain District,Change,,"Duplex housing
 Public parks","Accessory dwelling
@@ -396,8 +396,8 @@ Triplex housing
 Fourplex housing
 Single detached housing",0.6,9m,50%,4m,4.5m,1.8m,,RNC: North Central District,Medium,"Accessory dwelling housing
 Fourplex housing
-Multiplex housing       
-Triplex housing","Apartment Housing 
+Multiplex housing
+Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
@@ -411,8 +411,8 @@ Triplex housing
 Fourplex housing
 Single detached housing",0.6,9m,50%,4m,4.5m,1.8m,,RNC: North Central District,Medium,"Accessory dwelling housing
 Fourplex housing
-Multiplex housing       
-Triplex housing","Apartment Housing 
+Multiplex housing
+Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
@@ -437,8 +437,8 @@ Triplex Housing
 Fourplex Housing
 Stacked row housing",0.7,10m,20%,4m,4.5m,1.8m,,RTR: Tatanga Ridge District,Medium,"Accessory dwelling housing
 Fourplex housing
-Multiplex housing       
-Triplex housing","Apartment Housing 
+Multiplex housing
+Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
@@ -446,8 +446,8 @@ ID_00060,22,Nahanni Dr and Kluane Dr,RVV: Valley View District,Same,,"Public par
 Row housing","Home occupations type 1
 Stacked Row Housing",0.5,9m,40%,4m,4.5m,2m,,RVV: Valley View District,Medium,"Accessory dwelling housing
 Fourplex housing
-Multiplex housing       
-Triplex housing","Apartment Housing 
+Multiplex housing
+Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
@@ -457,9 +457,7 @@ Public parks","Row housing
 Stacked Row housing",0.8,11m,20%,3m,3m,3m,,RWB: West Birch District,High,"Accessory dwelling housing
 Apartment housing
 Fourplex housing
-Multiplex housing","Assisted living housing            
-Duplex housing                       
-Single detached housing              
+Multiplex housing","Assisted living housing
+Duplex housing
+Single detached housing
 Triplex Housing",1.6,14.5m,30%,4m,2m,1.8m
-ID_00056,21,South of Antelope Lane and Otter Lane,RR: Residential Reserve District,Same,,Public parks,"Outdoor recreation services
-Utility services",N/A,N/A,N/A,N/A,N/A,N/A,,RR: Residential Reserve District,N/A,,,,,,,,
