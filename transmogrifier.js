@@ -41,7 +41,7 @@ fs.createReadStream(csvFilePath)
           placemark.description = {_cdata: formatDescriptionAsTable(matchingRow)};
         }
         else {
-          placemark.description = {_cdata: ''};
+          placemark.description = {_cdata: 'No Data'};
         }
       });
 

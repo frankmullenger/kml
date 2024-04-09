@@ -9,7 +9,7 @@
             <Placemark id="ID_00000">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -28,19 +28,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>1</td>
-        <td>1</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00001</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">1</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>Glen Crescent</td>
-        <td>Glen Crescent</td>
+        <td colspan="2">Glen Crescent</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -110,7 +112,7 @@
             <Placemark id="ID_00002">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -127,7 +129,7 @@
             <Placemark id="ID_00003">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -144,7 +146,7 @@
             <Placemark id="ID_00004">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -161,7 +163,7 @@
             <Placemark id="ID_00005">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -178,7 +180,7 @@
             <Placemark id="ID_00006">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -195,7 +197,7 @@
             <Placemark id="ID_00007">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -212,7 +214,7 @@
             <Placemark id="ID_00008">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -229,7 +231,7 @@
             <Placemark id="ID_00009">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -246,7 +248,7 @@
             <Placemark id="ID_00010">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -265,19 +267,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>2</td>
-        <td>2</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00011</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">2</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>Coyote Lane area</td>
-        <td>Coyote Lane area</td>
+        <td colspan="2">Coyote Lane area</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -342,7 +346,7 @@
             <Placemark id="ID_00012">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -359,7 +363,7 @@
             <Placemark id="ID_00013">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -376,7 +380,7 @@
             <Placemark id="ID_00014">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -393,7 +397,7 @@
             <Placemark id="ID_00015">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -415,7 +419,7 @@
             <Placemark id="ID_00016">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -432,7 +436,7 @@
             <Placemark id="ID_00017">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -451,19 +455,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>3</td>
-        <td>3</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00018</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">3</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>Most of Rainbow Ave and Park Ave</td>
-        <td>Most of Rainbow Ave and Park Ave</td>
+        <td colspan="2">Most of Rainbow Ave and Park Ave</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -530,19 +536,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>4</td>
-        <td>4</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00019</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">4</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>Spray Ave, Kootenay Ave and Mountain Ave</td>
-        <td>Spray Ave, Kootenay Ave and Mountain Ave</td>
+        <td colspan="2">Spray Ave, Kootenay Ave and Mountain Ave</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -609,19 +617,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>5</td>
-        <td>5</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00020</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">5</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>Southeast of YWCA</td>
-        <td>Southeast of YWCA</td>
+        <td colspan="2">Southeast of YWCA</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -688,19 +698,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>6</td>
-        <td>6</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00021</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">6</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>South part of Muskrat</td>
-        <td>South part of Muskrat</td>
+        <td colspan="2">South part of Muskrat</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -767,19 +779,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>7</td>
-        <td>7</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00022</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">7</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>East-central grid residential</td>
-        <td>East-central grid residential</td>
+        <td colspan="2">East-central grid residential</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -846,19 +860,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>8</td>
-        <td>8</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00023</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">8</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>East of Bow Ave</td>
-        <td>East of Bow Ave</td>
+        <td colspan="2">East of Bow Ave</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -923,7 +939,7 @@
             <Placemark id="ID_00024">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -942,19 +958,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>9</td>
-        <td>9</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00025</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">9</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>East side of Banff Ave</td>
-        <td>East side of Banff Ave</td>
+        <td colspan="2">East side of Banff Ave</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -1019,7 +1037,7 @@
             <Placemark id="ID_00026">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -1036,7 +1054,7 @@
             <Placemark id="ID_00027">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -1053,7 +1071,7 @@
             <Placemark id="ID_00028">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -1070,7 +1088,7 @@
             <Placemark id="ID_00029">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -1087,7 +1105,7 @@
             <Placemark id="ID_00030">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -1106,19 +1124,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>10</td>
-        <td>10</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00031</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">10</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>Sulphur Court</td>
-        <td>Sulphur Court</td>
+        <td colspan="2">Sulphur Court</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -1185,19 +1205,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>11</td>
-        <td>11</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00032</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">11</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>Middle Springs Dr between Fairholme Pl and Sulphur Court</td>
-        <td>Middle Springs Dr between Fairholme Pl and Sulphur Court</td>
+        <td colspan="2">Middle Springs Dr between Fairholme Pl and Sulphur Court</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -1264,19 +1286,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>12</td>
-        <td>12</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00033</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">12</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>Fairholme Pl</td>
-        <td>Fairholme Pl</td>
+        <td colspan="2">Fairholme Pl</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -1341,7 +1365,7 @@
             <Placemark id="ID_00034">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -1358,7 +1382,7 @@
             <Placemark id="ID_00035">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -1375,7 +1399,7 @@
             <Placemark id="ID_00036">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -1392,7 +1416,7 @@
             <Placemark id="ID_00037">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -1409,7 +1433,7 @@
             <Placemark id="ID_00038">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -1426,7 +1450,7 @@
             <Placemark id="ID_00039">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -1445,19 +1469,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>13</td>
-        <td>13</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00040</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">13</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>Cave Ave area</td>
-        <td>Cave Ave area</td>
+        <td colspan="2">Cave Ave area</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -1524,19 +1550,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>14</td>
-        <td>14</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00041</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">14</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>Glacier Dr and Jasper Wy</td>
-        <td>Glacier Dr and Jasper Wy</td>
+        <td colspan="2">Glacier Dr and Jasper Wy</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -1601,7 +1629,7 @@
             <Placemark id="ID_00042">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -1618,7 +1646,7 @@
             <Placemark id="ID_00043">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -1637,19 +1665,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>15</td>
-        <td>15</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00044</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">15</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>Co-op</td>
-        <td>Co-op</td>
+        <td colspan="2">Co-op</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -1716,19 +1746,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>16</td>
-        <td>16</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00045</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">16</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>Cascade Ct, Lougheed Ci, Spring Cr</td>
-        <td>Cascade Ct, Lougheed Ci, Spring Cr</td>
+        <td colspan="2">Cascade Ct, Lougheed Ci, Spring Cr</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -1795,19 +1827,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>17</td>
-        <td>17</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00046</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">17</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>Banff Springs residential</td>
-        <td>Banff Springs residential</td>
+        <td colspan="2">Banff Springs residential</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -1874,19 +1908,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>18</td>
-        <td>18</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00047</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">18</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>East end of Banff Springs Hotel</td>
-        <td>East end of Banff Springs Hotel</td>
+        <td colspan="2">East end of Banff Springs Hotel</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -1951,7 +1987,7 @@
             <Placemark id="ID_00048">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -1968,7 +2004,7 @@
             <Placemark id="ID_00049">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -1985,7 +2021,7 @@
             <Placemark id="ID_00050">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -2004,19 +2040,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>19</td>
-        <td>19</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00051</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">19</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>West end of Middle Springs Dr</td>
-        <td>West end of Middle Springs Dr</td>
+        <td colspan="2">West end of Middle Springs Dr</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -2081,7 +2119,7 @@
             <Placemark id="ID_00052">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -2098,7 +2136,7 @@
             <Placemark id="ID_00053">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -2117,19 +2155,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>20</td>
-        <td>20</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00054</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">20</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>North side of Cougar between Rabbit and Fox</td>
-        <td>North side of Cougar between Rabbit and Fox</td>
+        <td colspan="2">North side of Cougar between Rabbit and Fox</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -2194,7 +2234,7 @@
             <Placemark id="ID_00055">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -2213,19 +2253,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>21</td>
-        <td>21</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00056</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">21</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>South of Antelope Lane and Otter Lane</td>
-        <td>South of Antelope Lane and Otter Lane</td>
+        <td colspan="2">South of Antelope Lane and Otter Lane</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -2290,7 +2332,7 @@
             <Placemark id="ID_00057">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -2307,7 +2349,7 @@
             <Placemark id="ID_00058">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -2324,7 +2366,7 @@
             <Placemark id="ID_00059">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -2343,19 +2385,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>22</td>
-        <td>22</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00060</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">22</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>Nahanni Dr and Kluane Dr</td>
-        <td>Nahanni Dr and Kluane Dr</td>
+        <td colspan="2">Nahanni Dr and Kluane Dr</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -2420,7 +2464,7 @@
             <Placemark id="ID_00061">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -2437,7 +2481,7 @@
             <Placemark id="ID_00062">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -2454,7 +2498,7 @@
             <Placemark id="ID_00063">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -2478,19 +2522,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>23</td>
-        <td>23</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00064</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">23</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>East end of Buffalo St</td>
-        <td>East end of Buffalo St</td>
+        <td colspan="2">East end of Buffalo St</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -2555,7 +2601,7 @@
             <Placemark id="ID_00065">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -2572,7 +2618,7 @@
             <Placemark id="ID_00066">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -2591,19 +2637,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>24</td>
-        <td>24</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00067</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">24</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>Sundance Ct</td>
-        <td>Sundance Ct</td>
+        <td colspan="2">Sundance Ct</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -2668,7 +2716,7 @@
             <Placemark id="ID_00068">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -2685,7 +2733,7 @@
             <Placemark id="ID_00069">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -2702,7 +2750,7 @@
             <Placemark id="ID_00070">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -2719,7 +2767,7 @@
             <Placemark id="ID_00071">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -2736,7 +2784,7 @@
             <Placemark id="ID_00072">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -2755,19 +2803,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>25</td>
-        <td>25</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00073</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">25</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>Elk, Squirrel, Big Horn area</td>
-        <td>Elk, Squirrel, Big Horn area</td>
+        <td colspan="2">Elk, Squirrel, Big Horn area</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -2834,19 +2884,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>26</td>
-        <td>26</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00074</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">26</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>Marten St from Wolf to halfway between Fox and Rabbit</td>
-        <td>Marten St from Wolf to halfway between Fox and Rabbit</td>
+        <td colspan="2">Marten St from Wolf to halfway between Fox and Rabbit</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -2911,7 +2963,7 @@
             <Placemark id="ID_00075">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -2928,7 +2980,7 @@
             <Placemark id="ID_00076">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -2947,19 +2999,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>27</td>
-        <td>27</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00077</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">27</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>Antelope Lane and Otter Lane</td>
-        <td>Antelope Lane and Otter Lane</td>
+        <td colspan="2">Antelope Lane and Otter Lane</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -3026,19 +3080,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>28</td>
-        <td>28</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00078</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">28</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>Cougar St and south of north leg of Marmot Cr</td>
-        <td>Cougar St and south of north leg of Marmot Cr</td>
+        <td colspan="2">Cougar St and south of north leg of Marmot Cr</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -3103,7 +3159,7 @@
             <Placemark id="ID_00079">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -3120,7 +3176,7 @@
             <Placemark id="ID_00080">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -3139,19 +3195,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>29</td>
-        <td>29</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00081</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">29</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>Marmot Pl cul-de-sac</td>
-        <td>Marmot Pl cul-de-sac</td>
+        <td colspan="2">Marmot Pl cul-de-sac</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -3218,19 +3276,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>30</td>
-        <td>30</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00082</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">30</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>Cougar St between Fox and south leg of Marmot Cr as well as Whiskey Jack Cr</td>
-        <td>Cougar St between Fox and south leg of Marmot Cr as well as Whiskey Jack Cr</td>
+        <td colspan="2">Cougar St between Fox and south leg of Marmot Cr as well as Whiskey Jack Cr</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -3295,7 +3355,7 @@
             <Placemark id="ID_00083">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -3314,19 +3374,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>31</td>
-        <td>31</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00084</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">31</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>Porcupine and Pika</td>
-        <td>Porcupine and Pika</td>
+        <td colspan="2">Porcupine and Pika</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -3391,7 +3453,7 @@
             <Placemark id="ID_00085">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -3408,7 +3470,7 @@
             <Placemark id="ID_00086">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -3425,7 +3487,7 @@
             <Placemark id="ID_00087">
                 <name/>
                 <snippet/>
-                <description><![CDATA[]]></description>
+                <description><![CDATA[No Data]]></description>
                 <styleUrl>#PolyStyle00</styleUrl>
                 <MultiGeometry>
                     <Polygon>
@@ -3444,19 +3506,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>32</td>
-        <td>32</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00088</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">32</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>East side of St. Julien Rd</td>
-        <td>East side of St. Julien Rd</td>
+        <td colspan="2">East side of St. Julien Rd</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -3523,19 +3587,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>33</td>
-        <td>33</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00089</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">33</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>West end of south side of Buffalo Street</td>
-        <td>West end of south side of Buffalo Street</td>
+        <td colspan="2">West end of south side of Buffalo Street</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -3602,19 +3668,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>34</td>
-        <td>34</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00090</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">34</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>Rectangle between slopes and Rainbow Ave</td>
-        <td>Rectangle between slopes and Rainbow Ave</td>
+        <td colspan="2">Rectangle between slopes and Rainbow Ave</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -3681,19 +3749,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>35</td>
-        <td>35</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00091</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">35</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>West end of west Park Ave</td>
-        <td>West end of west Park Ave</td>
+        <td colspan="2">West end of west Park Ave</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -3760,19 +3830,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>36</td>
-        <td>36</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00092</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">36</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>East Marmot Crescent parcels</td>
-        <td>East Marmot Crescent parcels</td>
+        <td colspan="2">East Marmot Crescent parcels</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -3839,19 +3911,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>37</td>
-        <td>37</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00093</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">37</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>Deer Street area</td>
-        <td>Deer Street area</td>
+        <td colspan="2">Deer Street area</td>
     </tr>
     <tr>
         <td>LUB District</td>
@@ -3918,19 +3992,21 @@
                 <snippet/>
                 <description><![CDATA[<table>
     <tr>
-        <th>Attribute</th>
+        <th></th>
         <th>Current</th>
         <th>Proposed</th>
     </tr>
     <tr>
-        <td>ID</td>
-        <td>38</td>
-        <td>38</td>
+        <td>Placemark ID</td>
+        <td colspan="2">ID_00094</td>
+    </tr>
+    <tr>
+        <td>Land Use ID</td>
+        <td colspan="2">38</td>
     </tr>
     <tr>
         <td>Name</td>
-        <td>Beginnings of slopes of Tunnel Mountain, south end</td>
-        <td>Beginnings of slopes of Tunnel Mountain, south end</td>
+        <td colspan="2">Beginnings of slopes of Tunnel Mountain, south end</td>
     </tr>
     <tr>
         <td>LUB District</td>
