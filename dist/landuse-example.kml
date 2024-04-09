@@ -39,13 +39,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Public parks<br>Duplex housing</td>
-        <td class="uses">Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
+        <td>Public parks<br>Duplex housing</td>
+        <td>Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Single detached housing<br>Bed and breakfast homes<br>Home occupations type 1<br>Home occupations type 2<br>Accessory dwelling</td>
-        <td class="uses">Assisted living housing<br>Single detached housing</td>
+        <td>Single detached housing<br>Bed and breakfast homes<br>Home occupations type 1<br>Home occupations type 2<br>Accessory dwelling</td>
+        <td>Assisted living housing<br>Single detached housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -271,13 +271,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Apartment housing<br>Fourplex housing</td>
-        <td class="uses">Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
+        <td>Apartment housing<br>Fourplex housing</td>
+        <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses"> Bed and breakfast homes<br>Group homes<br>Home occupations type 1 Stacked row housing<br>Row housing<br>Duplex housing<br>Single detached housing<br>Accessory dwelling</td>
-        <td class="uses">Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
+        <td> Bed and breakfast homes<br>Group homes<br>Home occupations type 1 Stacked row housing<br>Row housing<br>Duplex housing<br>Single detached housing<br>Accessory dwelling</td>
+        <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -452,13 +452,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Duplex housing<br>Public parks</td>
-        <td class="uses">Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        <td>Duplex housing<br>Public parks</td>
+        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Accessory dwelling<br>Bed and breakfast homes<br>Group homes<br>Home occupations type 1<br>Home occupations type 2<br>Single detached housing</td>
-        <td class="uses">Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        <td>Accessory dwelling<br>Bed and breakfast homes<br>Group homes<br>Home occupations type 1<br>Home occupations type 2<br>Single detached housing</td>
+        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -526,13 +526,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Duplex housing<br>Public parks</td>
-        <td class="uses">Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        <td>Duplex housing<br>Public parks</td>
+        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Accessory dwelling<br>Bed and breakfast homes<br>Home occupations type 1<br>Single detached housing</td>
-        <td class="uses">Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        <td>Accessory dwelling<br>Bed and breakfast homes<br>Home occupations type 1<br>Single detached housing</td>
+        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -600,13 +600,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Public parks                                                     <br>Duplex housing<br>Row housing</td>
-        <td class="uses">Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        <td>Public parks                                                     <br>Duplex housing<br>Row housing</td>
+        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Single detached, Fourplex, or Stacked row housing<br>Home occupations type 1<br>Utility services<br>Accessory dwelling</td>
-        <td class="uses">Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        <td>Single detached, Fourplex, or Stacked row housing<br>Home occupations type 1<br>Utility services<br>Accessory dwelling</td>
+        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -674,13 +674,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Apartment housing<br>Fourplex housing<br>Public parks<br>Stacked row housing</td>
-        <td class="uses">Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
+        <td>Apartment housing<br>Fourplex housing<br>Public parks<br>Stacked row housing</td>
+        <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Bed and breakfast homes<br>Bed and breakfast inns<br>Duplex housing<br>Triplex housing<br> Group homes<br>Home occupations type 1<br>Home occupations type 2         <br>Row housing<br>Single detached housing<br>Senior citizen housing   <br>Accessory dwelling</td>
-        <td class="uses">Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
+        <td>Bed and breakfast homes<br>Bed and breakfast inns<br>Duplex housing<br>Triplex housing<br> Group homes<br>Home occupations type 1<br>Home occupations type 2         <br>Row housing<br>Single detached housing<br>Senior citizen housing   <br>Accessory dwelling</td>
+        <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -748,13 +748,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Duplex housing<br>Public parks<br>Triplex housing<br>Fourplex housing</td>
-        <td class="uses">Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        <td>Duplex housing<br>Public parks<br>Triplex housing<br>Fourplex housing</td>
+        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Bed and breakfast homes<br>Bed and breakfast inns<br>Group homes<br>Home occupations type 1<br>Home occupations type 2<br>Single detached housing<br>Accessory dwelling</td>
-        <td class="uses">Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        <td>Bed and breakfast homes<br>Bed and breakfast inns<br>Group homes<br>Home occupations type 1<br>Home occupations type 2<br>Single detached housing<br>Accessory dwelling</td>
+        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -822,13 +822,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Duplex housing<br>Public parks</td>
-        <td class="uses">Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        <td>Duplex housing<br>Public parks</td>
+        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Accessory dwelling<br>Bed and breakfast homes<br>Home occupations type 1<br>Home occupations type 2<br>Single detached housing</td>
-        <td class="uses">Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        <td>Accessory dwelling<br>Bed and breakfast homes<br>Home occupations type 1<br>Home occupations type 2<br>Single detached housing</td>
+        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -913,13 +913,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Apartment housing<br>Fourplex housing</td>
-        <td class="uses">Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
+        <td>Apartment housing<br>Fourplex housing</td>
+        <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses"> Bed and breakfast homes<br>Group homes<br>Home occupations type 1 Stacked row housing<br>Row housing<br>Duplex housing<br>Single detached housing<br>Accessory dwelling</td>
-        <td class="uses">Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
+        <td> Bed and breakfast homes<br>Group homes<br>Home occupations type 1 Stacked row housing<br>Row housing<br>Duplex housing<br>Single detached housing<br>Accessory dwelling</td>
+        <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -1072,13 +1072,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Duplex housing                                               Public parks<br>Row Housing</td>
-        <td class="uses">Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
+        <td>Duplex housing                                               Public parks<br>Row Housing</td>
+        <td>Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Utility services<br>Home occupations type 1<br>Indoor and outdoor recreation services<br>Accessory dwelling</td>
-        <td class="uses">Assisted living housing<br>Single detached housing</td>
+        <td>Utility services<br>Home occupations type 1<br>Indoor and outdoor recreation services<br>Accessory dwelling</td>
+        <td>Assisted living housing<br>Single detached housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -1146,13 +1146,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Row houses/Row houses with Accessory Dwellings</td>
-        <td class="uses">Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        <td>Row houses/Row houses with Accessory Dwellings</td>
+        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Home occupations type 1<br>Public Parks</td>
-        <td class="uses">Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        <td>Home occupations type 1<br>Public Parks</td>
+        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -1220,13 +1220,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Duplex housing<br>Row housing<br>Public parks</td>
-        <td class="uses">Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
+        <td>Duplex housing<br>Row housing<br>Public parks</td>
+        <td>Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Community recreation services<br>Accessory dwellings<br>Home occupations type 1<br>Public utility lots<br>Single detached housing</td>
-        <td class="uses">Assisted living housing<br>Single detached housing</td>
+        <td>Community recreation services<br>Accessory dwellings<br>Home occupations type 1<br>Public utility lots<br>Single detached housing</td>
+        <td>Assisted living housing<br>Single detached housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -1396,13 +1396,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Duplex housing<br>Triplex housing<br>Fourplex housing<br>Public parks </td>
-        <td class="uses">Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        <td>Duplex housing<br>Triplex housing<br>Fourplex housing<br>Public parks </td>
+        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Bed and breakfast homes<br>Bed and breakfast inns<br>Home occupations type 1<br>Home occupations type 2<br>Row housing<br>Single detached housing<br>Stacked row housing<br>Accessory dwelling.</td>
-        <td class="uses">Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        <td>Bed and breakfast homes<br>Bed and breakfast inns<br>Home occupations type 1<br>Home occupations type 2<br>Row housing<br>Single detached housing<br>Stacked row housing<br>Accessory dwelling.</td>
+        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -1470,13 +1470,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Public parks<br>Duplex housing</td>
-        <td class="uses">Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
+        <td>Public parks<br>Duplex housing</td>
+        <td>Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Bed and breakfast homes on Lots 1-8, Villa Block 21, Plan 7410679<br>Utility services<br>Home occupations type 1<br>Home occupations type 2<br>Accessory dwelling</td>
-        <td class="uses">Assisted living housing<br>Single detached housing</td>
+        <td>Bed and breakfast homes on Lots 1-8, Villa Block 21, Plan 7410679<br>Utility services<br>Home occupations type 1<br>Home occupations type 2<br>Accessory dwelling</td>
+        <td>Assisted living housing<br>Single detached housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -1578,13 +1578,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Apartment housing<br>Group homes<br>Public parks</td>
-        <td class="uses">Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
+        <td>Apartment housing<br>Group homes<br>Public parks</td>
+        <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Row housing<br>Stacked Row housing</td>
-        <td class="uses">Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
+        <td>Row housing<br>Stacked Row housing</td>
+        <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -1652,13 +1652,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Public parks<br>Duplex housing</td>
-        <td class="uses">Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
+        <td>Public parks<br>Duplex housing</td>
+        <td>Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Single detached housing<br>Bed and breakfast homes<br>Home occupations type 1<br>Home occupations type 2<br>Accessory dwelling</td>
-        <td class="uses">Assisted living housing<br>Single detached housing</td>
+        <td>Single detached housing<br>Bed and breakfast homes<br>Home occupations type 1<br>Home occupations type 2<br>Accessory dwelling</td>
+        <td>Assisted living housing<br>Single detached housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -1726,13 +1726,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Apartment housing<br>Stacked row housing<br>Row housing</td>
-        <td class="uses">Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
+        <td>Apartment housing<br>Stacked row housing<br>Row housing</td>
+        <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Home Occupations type 1</td>
-        <td class="uses">Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
+        <td>Home Occupations type 1</td>
+        <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -1800,13 +1800,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Duplex housing<br>Public parks</td>
-        <td class="uses">Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        <td>Duplex housing<br>Public parks</td>
+        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Accessory dwelling<br>Bed and breakfast homes<br>Home occupations type 1<br>Home occupations type 2<br>Single detached housing</td>
-        <td class="uses">Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        <td>Accessory dwelling<br>Bed and breakfast homes<br>Home occupations type 1<br>Home occupations type 2<br>Single detached housing</td>
+        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -1925,13 +1925,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Duplex housing<br>Accessory dwellings located within a dwelling unit on lots 1 to 16, block 30, plan 0113208</td>
-        <td class="uses">Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
+        <td>Duplex housing<br>Accessory dwellings located within a dwelling unit on lots 1 to 16, block 30, plan 0113208</td>
+        <td>Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Home occupations type I<br>Utility services<br>Single detached housing<br>Accessory dwellings located on lots other than lots 1 to 16, block 30, plan 0113208</td>
-        <td class="uses">Assisted living housing<br>Single detached housing</td>
+        <td>Home occupations type I<br>Utility services<br>Single detached housing<br>Accessory dwellings located on lots other than lots 1 to 16, block 30, plan 0113208</td>
+        <td>Assisted living housing<br>Single detached housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -2033,13 +2033,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Duplex housing<br>Public parks</td>
-        <td class="uses">Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
+        <td>Duplex housing<br>Public parks</td>
+        <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Accessory dwelling<br>Bed and breakfast homes<br>Group homes<br>Home occupations type 1<br>Home occupations type 2<br>Triplex housing<br>Fourplex housing<br>Single detached housing</td>
-        <td class="uses">Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
+        <td>Accessory dwelling<br>Bed and breakfast homes<br>Group homes<br>Home occupations type 1<br>Home occupations type 2<br>Triplex housing<br>Fourplex housing<br>Single detached housing</td>
+        <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -2124,13 +2124,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Public parks</td>
-        <td class="uses"></td>
+        <td>Public parks</td>
+        <td></td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Outdoor recreation services<br>Utility services</td>
-        <td class="uses"></td>
+        <td>Outdoor recreation services<br>Utility services</td>
+        <td></td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -2249,13 +2249,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Public parks<br>Row housing</td>
-        <td class="uses">Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        <td>Public parks<br>Row housing</td>
+        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Home occupations type 1<br>Stacked Row Housing</td>
-        <td class="uses">Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        <td>Home occupations type 1<br>Stacked Row Housing</td>
+        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -2379,13 +2379,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Duplex housing<br>Public parks</td>
-        <td class="uses">Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
+        <td>Duplex housing<br>Public parks</td>
+        <td>Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Accessory dwelling<br>Bed and breakfast homes<br>Home occupations type 1<br>Home occupations type 2<br>Single detached housing</td>
-        <td class="uses">Assisted living housing<br>Single detached housing</td>
+        <td>Accessory dwelling<br>Bed and breakfast homes<br>Home occupations type 1<br>Home occupations type 2<br>Single detached housing</td>
+        <td>Assisted living housing<br>Single detached housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -2487,13 +2487,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Row housing</td>
-        <td class="uses">Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        <td>Row housing</td>
+        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Utility Services<br>Home occupations type I<br>Public parks</td>
-        <td class="uses">Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        <td>Utility Services<br>Home occupations type I<br>Public parks</td>
+        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -2646,13 +2646,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Duplex housing<br>Public parks</td>
-        <td class="uses">Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
+        <td>Duplex housing<br>Public parks</td>
+        <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Accessory dwelling<br>Bed and breakfast homes<br>Group homes<br>Home occupations type 1<br>Home occupations type 2<br>Triplex housing<br>Fourplex housing<br>Single detached housing</td>
-        <td class="uses">Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
+        <td>Accessory dwelling<br>Bed and breakfast homes<br>Group homes<br>Home occupations type 1<br>Home occupations type 2<br>Triplex housing<br>Fourplex housing<br>Single detached housing</td>
+        <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -2720,13 +2720,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Apartment housing<br>Fourplex housing<br> Public parks<br>Row housing<br> Stacked row housing</td>
-        <td class="uses">Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
+        <td>Apartment housing<br>Fourplex housing<br> Public parks<br>Row housing<br> Stacked row housing</td>
+        <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Bed and breakfast homes<br>Bed and breakfast inns<br>Duplex housing<br>Triplex housing<br>Group homes<br>Home occupations type 1<br>Home occupations type 2<br>Senior citizen housing<br>Single detached housing<br>Accessory dwelling</td>
-        <td class="uses">Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
+        <td>Bed and breakfast homes<br>Bed and breakfast inns<br>Duplex housing<br>Triplex housing<br>Group homes<br>Home occupations type 1<br>Home occupations type 2<br>Senior citizen housing<br>Single detached housing<br>Accessory dwelling</td>
+        <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -2828,13 +2828,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Duplex housing<br>Row housing</td>
-        <td class="uses">Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        <td>Duplex housing<br>Row housing</td>
+        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Apartments<br>Home occupations type 1<br>Triplex Housing<br>Fourplex Housing<br>Stacked row housing</td>
-        <td class="uses">Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        <td>Apartments<br>Home occupations type 1<br>Triplex Housing<br>Fourplex Housing<br>Stacked row housing</td>
+        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -2902,13 +2902,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses"> Public park<br> Row housing</td>
-        <td class="uses">Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
+        <td> Public park<br> Row housing</td>
+        <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Apartment housing<br>Home occupations type 1<br>Home occupations type 2<br>Stacked row housing</td>
-        <td class="uses">Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
+        <td>Apartment housing<br>Home occupations type 1<br>Home occupations type 2<br>Stacked row housing</td>
+        <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -3010,13 +3010,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Public parks<br>Duplex housing</td>
-        <td class="uses">Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
+        <td>Public parks<br>Duplex housing</td>
+        <td>Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Single detached housing<br>Bed and breakfast homes<br>Home occupations type 1<br>Home occupations type 2<br>Accessory dwelling</td>
-        <td class="uses">Assisted living housing<br>Single detached housing</td>
+        <td>Single detached housing<br>Bed and breakfast homes<br>Home occupations type 1<br>Home occupations type 2<br>Accessory dwelling</td>
+        <td>Assisted living housing<br>Single detached housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -3084,13 +3084,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses"> Public park<br> Row housing</td>
-        <td class="uses">Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
+        <td> Public park<br> Row housing</td>
+        <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Apartment housing<br>Home occupations type 1<br>Home occupations type 2<br>Stacked row housing</td>
-        <td class="uses">Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
+        <td>Apartment housing<br>Home occupations type 1<br>Home occupations type 2<br>Stacked row housing</td>
+        <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -3175,13 +3175,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses"> Public park<br> Row housing</td>
-        <td class="uses">Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        <td> Public park<br> Row housing</td>
+        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Apartment housing<br>Home occupations type 1<br>Home occupations type 2<br>Stacked row housing</td>
-        <td class="uses">Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        <td>Apartment housing<br>Home occupations type 1<br>Home occupations type 2<br>Stacked row housing</td>
+        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -3300,13 +3300,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Duplex housing<br>Public parks</td>
-        <td class="uses">Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
+        <td>Duplex housing<br>Public parks</td>
+        <td>Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Accessory dwelling<br>Bed and breakfast homes<br>Home occupations type 1<br>Home occupations type 2<br>Group homes<br>Triplex housing<br>Fourplex housing<br>Single detached housing</td>
-        <td class="uses">Assisted living housing<br>Single detached housing</td>
+        <td>Accessory dwelling<br>Bed and breakfast homes<br>Home occupations type 1<br>Home occupations type 2<br>Group homes<br>Triplex housing<br>Fourplex housing<br>Single detached housing</td>
+        <td>Assisted living housing<br>Single detached housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -3374,13 +3374,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Duplex housing<br>Public parks</td>
-        <td class="uses">Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        <td>Duplex housing<br>Public parks</td>
+        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Accessory dwelling<br>Bed and breakfast homes<br>Home occupations type 1<br>Home occupations type 2<br>Single detached housing</td>
-        <td class="uses">Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        <td>Accessory dwelling<br>Bed and breakfast homes<br>Home occupations type 1<br>Home occupations type 2<br>Single detached housing</td>
+        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -3448,13 +3448,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Duplex housing<br>Public parks</td>
-        <td class="uses">Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        <td>Duplex housing<br>Public parks</td>
+        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Accessory dwelling<br>Bed and breakfast homes<br>Group homes<br>Home occupations type 1<br>Home occupations type 2<br>Single detached housing</td>
-        <td class="uses">Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        <td>Accessory dwelling<br>Bed and breakfast homes<br>Group homes<br>Home occupations type 1<br>Home occupations type 2<br>Single detached housing</td>
+        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -3522,13 +3522,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Duplex housing<br>Public parks</td>
-        <td class="uses">Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        <td>Duplex housing<br>Public parks</td>
+        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Accessory dwelling<br>Bed and breakfast homes<br>Group homes<br>Home occupations type 1<br>Home occupations type 2<br>Single detached housing</td>
-        <td class="uses">Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        <td>Accessory dwelling<br>Bed and breakfast homes<br>Group homes<br>Home occupations type 1<br>Home occupations type 2<br>Single detached housing</td>
+        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -3596,13 +3596,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Public parks<br>Duplex housing</td>
-        <td class="uses">Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
+        <td>Public parks<br>Duplex housing</td>
+        <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Single detached housing<br>Bed and breakfast homes<br>Home occupations type 1<br>Home occupations type 2<br>Accessory dwelling</td>
-        <td class="uses">Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
+        <td>Single detached housing<br>Bed and breakfast homes<br>Home occupations type 1<br>Home occupations type 2<br>Accessory dwelling</td>
+        <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -3670,13 +3670,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Duplex housing<br>Public parks</td>
-        <td class="uses">Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        <td>Duplex housing<br>Public parks</td>
+        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Accessory dwelling<br>Bed and breakfast homes<br>Home occupations type 1<br>Home occupations type 2<br>Group homes<br>Triplex housing<br>Fourplex housing<br>Single detached housing</td>
-        <td class="uses">Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        <td>Accessory dwelling<br>Bed and breakfast homes<br>Home occupations type 1<br>Home occupations type 2<br>Group homes<br>Triplex housing<br>Fourplex housing<br>Single detached housing</td>
+        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -3744,13 +3744,13 @@
     </tr>
     <tr>
         <td>Permitted<br/>Use</td>
-        <td class="uses">Duplex housing<br>Public parks</td>
-        <td class="uses">Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        <td>Duplex housing<br>Public parks</td>
+        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
     </tr>
     <tr>
         <td>Discretionary<br/>Use</td>
-        <td class="uses">Accessory dwelling<br>Bed and breakfast homes<br>Home occupations type 1<br>Home occupations type 2<br>Group homes<br>Triplex housing<br>Fourplex housing<br>Single detached housing</td>
-        <td class="uses">Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        <td>Accessory dwelling<br>Bed and breakfast homes<br>Home occupations type 1<br>Home occupations type 2<br>Group homes<br>Triplex housing<br>Fourplex housing<br>Single detached housing</td>
+        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
     </tr>
     <tr>
         <td>Max FAR</td>
@@ -3842,11 +3842,11 @@
                 <scale>0.000000</scale>
             </LabelStyle>
             <LineStyle>
-                <color>d25f2e34</color>
+                <color>d26e6e6e</color>
                 <width>0.700000</width>
             </LineStyle>
             <PolyStyle>
-                <color>d2BD5C67</color>
+                <color>d2675CBD</color>
                 <outline>1</outline>
             </PolyStyle>
         </Style>
@@ -3856,11 +3856,11 @@
                 <scale>0.000000</scale>
             </LabelStyle>
             <LineStyle>
-                <color>d2744a40</color>
+                <color>d26e6e6e</color>
                 <width>0.700000</width>
             </LineStyle>
             <PolyStyle>
-                <color>d2E8937F</color>
+                <color>d27F93E8</color>
                 <outline>1</outline>
             </PolyStyle>
         </Style>
@@ -3870,11 +3870,11 @@
                 <scale>0.000000</scale>
             </LabelStyle>
             <LineStyle>
-                <color>d2746a48</color>
+                <color>d26e6e6e</color>
                 <width>0.700000</width>
             </LineStyle>
             <PolyStyle>
-                <color>d2E7D490</color>
+                <color>d290D4E7</color>
                 <outline>1</outline>
             </PolyStyle>
         </Style>
