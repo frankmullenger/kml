@@ -83,8 +83,6 @@ function formatDescriptionAsTable(row) {
 function formatStyle(row) {
 
   const type = row['Proposed Residential Group'].trim();
-  console.log(type);
-
   const style = "#PolyStyle" + type;
   console.log(style);
 
