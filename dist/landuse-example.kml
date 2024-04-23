@@ -3753,7 +3753,7 @@
         </Folder>
         <Style id="PolyStyle00">
             <LabelStyle>
-                <color>d2000000</color>
+                <color>00000000</color>
                 <scale>0.000000</scale>
             </LabelStyle>
             <LineStyle>
@@ -3761,13 +3761,13 @@
                 <width>0.700000</width>
             </LineStyle>
             <PolyStyle>
-                <color>d2ffe1d5</color>
+                <color>00ffe1d5</color>
                 <outline>1</outline>
             </PolyStyle>
         </Style>
         <Style id="PolyStyle018">
             <LabelStyle>
-                <color>d2000000</color>
+                <color>00000000</color>
                 <scale>0.000000</scale>
             </LabelStyle>
             <LineStyle>
@@ -3775,13 +3775,13 @@
                 <width>0.700000</width>
             </LineStyle>
             <PolyStyle>
-                <color>d2b3fdc9</color>
+                <color>00b3fdc9</color>
                 <outline>1</outline>
             </PolyStyle>
         </Style>
         <Style id="PolyStyleHigh">
             <LabelStyle>
-                <color>d2000000</color>
+                <color>8c000000</color>
                 <scale>0.000000</scale>
             </LabelStyle>
             <LineStyle>
@@ -3789,13 +3789,13 @@
                 <width>0.700000</width>
             </LineStyle>
             <PolyStyle>
-                <color>d2675CBD</color>
+                <color>8c675CBD</color>
                 <outline>1</outline>
             </PolyStyle>
         </Style>
         <Style id="PolyStyleMedium">
             <LabelStyle>
-                <color>d2000000</color>
+                <color>8c000000</color>
                 <scale>0.000000</scale>
             </LabelStyle>
             <LineStyle>
@@ -3803,13 +3803,13 @@
                 <width>0.700000</width>
             </LineStyle>
             <PolyStyle>
-                <color>d27F93E8</color>
+                <color>8c7F93E8</color>
                 <outline>1</outline>
             </PolyStyle>
         </Style>
         <Style id="PolyStyleLow">
             <LabelStyle>
-                <color>d2000000</color>
+                <color>8c000000</color>
                 <scale>0.000000</scale>
             </LabelStyle>
             <LineStyle>
@@ -3817,7 +3817,7 @@
                 <width>0.700000</width>
             </LineStyle>
             <PolyStyle>
-                <color>d290D4E7</color>
+                <color>8c90D4E7</color>
                 <outline>1</outline>
             </PolyStyle>
         </Style>
