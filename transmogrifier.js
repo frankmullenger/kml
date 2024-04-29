@@ -42,7 +42,7 @@ fs.createReadStream(csvFilePath)
           placemark.styleUrl = {_text: formatStyle(matchingRow)};
         }
         else {
-          placemark.description = {_cdata: 'No Data'};
+          placemark.description = {_cdata: formatNoDataDescription()};
         }
       });
 
@@ -87,4 +87,22 @@ function formatStyle(row) {
   console.log(style);
 
   return style;
+}
+
+function formatNoDataDescription() {
+  const message = `
+    <div>
+      <p>
+      The area you have selected is a non-residential Land Use District. Some small changes to non-residential districts are being proposed to increase housing opportunities in these districts. These include, but are not limited to:
+      </p>
+      <ul>
+        <li>Changes to allowable uses based on the new and amended definitions of different housing types;</li>
+        <li>Including the requirements that all homes must have a minimum of 5 m2 of Outdoor Amenity Area;</li>
+        <li>Limiting the maximum number of bedrooms to six (6) per home;</li>
+        <li>Removing some unnecessary informational clauses; and,</li>
+        <li>Removing some district specific restrictions on housing (e.g. maximum home size, minimum bedroom size, additional reporting, location within a building).</li>
+      </ul>
+    </div>
+  `;
+  return message;
 }
