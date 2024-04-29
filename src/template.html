@@ -4,11 +4,25 @@
         <th>Current</th>
         <th>Proposed</th>
     </tr>
+
     <tr>
         <td>LUB District</td>
-        <td><a href="https://banff.ca/" target="_blank" title="Current Land Use Bylaw">{{nl2br (lookup . 'Current LUB District')}}</a></td>
-        <td>{{nl2br (lookup . 'Proposed LUB District')}}</td>
+        <td>
+            {{#if (lookup . 'Current LUB District Link')}}
+                <a href="{{lookup . 'Current LUB District Link'}}" target="_blank" title="Current Land Use Bylaw">{{nl2br (lookup . 'Current LUB District')}}</a>
+            {{else}}
+                {{nl2br (lookup . 'Current LUB District')}}
+            {{/if}}
+        </td>
+        <td>
+            {{#if (lookup . 'Proposed LUB District Link')}}
+                <a href="{{lookup . 'Proposed LUB District Link'}}" target="_blank" title="Proposed Land Use Bylaw">{{nl2br (lookup . 'Proposed LUB District')}}</a>
+            {{else}}
+                {{nl2br (lookup . 'Proposed LUB District')}}
+            {{/if}}
+        </td>
     </tr>
+
     <tr>
         <td>Permitted<br/>Use</td>
         <td>{{nl2br (lookup . 'Current Permitted Use')}}</td>
