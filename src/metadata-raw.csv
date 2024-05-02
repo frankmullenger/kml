@@ -1,5 +1,5 @@
 Placemark ID,Land Use ID,Name,Current LUB District,Current LUB District Link,Change of Land Use District,Current Permitted Use,Current Discretionary Use,Current Max FAR,Current Max Height,Current Min Landscaping Requirement,Current Min Front Yard Setback,Current Min Rear Yard Setback,Current Min Side Yard Setback,Column1,Proposed LUB District,Proposed LUB District Link,Proposed Residential Group,Proposed Permitted Use,Proposed Discretionary Use,Proposed Max FAR,Proposed Max Height,Proposed Min Landscaping Requirement,Proposed Min Front Yard Setback,Proposed Min Rear Yard Setback,Proposed Min Side Yard Setback
-ID_00011,2,Coyote Lane area,RBA: Banff Avenue District ,,Same ,"Apartment housing
+ID_00011,2,Coyote Lane area,RBA: Banff Avenue District ,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.11.0,Same ,"Apartment housing
 Fourplex housing","Group homes
 Stacked row housing
 Row housing
@@ -12,7 +12,7 @@ Multiplex housing","Assisted living housing
 Duplex housing                       
 Single detached housing              
 Triplex Housing",1.6,14.5m,30%,4m,2m,1.8m
-ID_00025,9,East side of Banff Ave,RBA: Banff Avenue District ,,Same ,"Apartment housing
+ID_00025,9,East side of Banff Ave,RBA: Banff Avenue District ,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.11.0,Same ,"Apartment housing
 Fourplex housing","Group homes
 Stacked row housing
 Row housing
@@ -25,16 +25,16 @@ Multiplex housing","Assisted living housing
 Duplex housing                       
 Single detached housing              
 Triplex Housing",1.6,14.5m,30%,4m,2m,1.8m
-ID_00046,17,Banff Springs residential,RBS: Banff Springs District ,,Same ,"Apartment housing
+ID_00046,17,Banff Springs residential,RBS: Banff Springs District ,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.12.0,Same ,"Apartment housing
 Stacked row housing
-Row housing",,Not specified,14m,40%,9m,3.5m,4.5m,,RBS: Banff Springs District ,,High,"Accessory dwelling housing
+Row housing",,115 dwellings/ha,14m,40%,9m,3.5m,4.5m,,RBS: Banff Springs District ,,High,"Accessory dwelling housing
 Apartment housing
 Fourplex housing
 Multiplex housing","Assisted living housing            
 Duplex housing                       
 Single detached housing              
 Triplex Housing",1.6,14.5m,30%,4m,2m,1.8m
-ID_00040,13,Cave Ave area,RCA: Cave Avenue District,,Same,"Duplex housing
+ID_00040,13,Cave Ave area,RCA: Cave Avenue District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.13.0,Same,"Duplex housing
 Triplex housing
 Fourplex housing","Row housing
 Single detached housing
@@ -46,7 +46,7 @@ Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
-ID_00021,6,South part of Muskrat,RCM: Central Muskrat District,,Same,"Apartment housing
+ID_00021,6,South part of Muskrat,RCM: Central Muskrat District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.14.0,Same,"Apartment housing
 Fourplex housing
 Stacked row housing","Duplex housing
 Triplex housing
@@ -54,38 +54,38 @@ Group homes
 Row housing
 Single detached housing
 Senior citizen housing   
-Accessory dwelling",1.3,11m/9m,40%,4m,4.5m,1.8m,,RCM: Central Muskrat District,,High,"Accessory dwelling housing
+Accessory dwelling",1.3,11m,40%,4m,4.5m,1.8m,,RCM: Central Muskrat District,,High,"Accessory dwelling housing
 Apartment housing
 Fourplex housing
 Multiplex housing","Assisted living housing            
 Duplex housing                       
 Single detached housing              
 Triplex Housing",1.6,14.5m,30%,4m,2m,1.8m
-ID_00082,30,Cougar St between Fox and south leg of Marmot Cr as well as Whiskey Jack Cr,RCN: Cougar North District,,Change, Row housing,"Apartment housing
-Stacked row housing",0.5,9m,40%,Not specified,Not specified,Not specified,,RCR: Cougar/ Rabbit District,,High,"Accessory dwelling housing
+ID_00082,30,Cougar St between Fox and south leg of Marmot Cr as well as Whiskey Jack Cr,RCN: Cougar North District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.15.0,Change, Row housing,"Apartment housing
+Stacked row housing",0.5,9m,40%,discretionary,discretionary,discretionary,,RCR: Cougar/ Rabbit District,,High,"Accessory dwelling housing
 Apartment housing
 Fourplex housing
 Multiplex housing","Assisted living housing            
 Duplex housing                       
 Single detached housing              
 Triplex Housing",1.6,14.5m,30%,4m,2m,1.8m
-ID_00078,28,Cougar St and south of north leg of Marmot Cr,RCN: Cougar North District,,Change,Row housing,"Apartment housing
-Stacked row housing",0.5,9m,40%,Not specified,Not specified,Not specified,,RCR: Cougar/ Rabbit District,,High,"Accessory dwelling housing
+ID_00078,28,Cougar St and south of north leg of Marmot Cr,RCN: Cougar North District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.15.0,Change,Row housing,"Apartment housing
+Stacked row housing",0.5,9m,40%,discretionary,discretionary,discretionary,,RCR: Cougar/ Rabbit District,,High,"Accessory dwelling housing
 Apartment housing
 Fourplex housing
 Multiplex housing","Assisted living housing            
 Duplex housing                       
 Single detached housing              
 Triplex Housing",1.6,14.5m,30%,4m,2m,1.8m
-ID_00084,31,Porcupine and Pika,RCN: Cougar North District,,Same,Row housing,"Apartment housing
-Stacked row housing",0.5,9m,40%,Not specified,Not specified,Not specified,,RCN:Cougar North District,,Medium,"Accessory dwelling housing
+ID_00084,31,Porcupine and Pika,RCN: Cougar North District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.15.0,Same,Row housing,"Apartment housing
+Stacked row housing",0.5,9m,40%,discretionary,discretionary,discretionary,,RCN:Cougar North District,,Medium,"Accessory dwelling housing
 Fourplex housing
 Multiplex housing       
 Triplex housing","Apartment Housing 
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
-ID_00074,26,Marten St from Wolf to halfway between Fox and Rabbit,RCR: Cougar/ Rabbit District,,Same,"Apartment housing
+ID_00074,26,Marten St from Wolf to halfway between Fox and Rabbit,RCR: Cougar/ Rabbit District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.16.0,Same,"Apartment housing
 Fourplex housing
 Row housing
 Stacked row housing","Duplex housing
@@ -93,32 +93,32 @@ Triplex housing
 Group homes
 Senior citizen housing
 Single detached housing
-Accessory dwelling",1.2,11m/9m,40%,4m,4.5m,2m,,RCR: Cougar/ Rabbit District,,High,"Accessory dwelling housing
+Accessory dwelling",1.2,11m,40%,4m,4.5m,2m,,RCR: Cougar/ Rabbit District,,High,"Accessory dwelling housing
 Apartment housing
 Fourplex housing
 Multiplex housing","Assisted living housing            
 Duplex housing                       
 Single detached housing              
 Triplex Housing",1.6,14.5m,30%,4m,2m,1.8m
-ID_00020,5,Southeast of YWCA,RGA: Glen Avenue District,,Same,"Duplex housing
+ID_00020,5,Southeast of YWCA,RGA: Glen Avenue District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.17.0,Same,"Duplex housing
 Row housing","Single detached housing
 Fourplex housing
 Stacked row housing
-Accessory dwelling",0.5,10m,30%,6 or 3m,Not specified,2m,,RGA: Glen Avenue District,,Medium,"Accessory dwelling housing
+Accessory dwelling",0.5,10m,30%,6m,3m,2m,,RGA: Glen Avenue District,,Medium,"Accessory dwelling housing
 Fourplex housing
 Multiplex housing       
 Triplex housing","Apartment Housing 
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5,35%,4m,2m,1.8m
-ID_00081,29,Marmot Pl cul-de-sac,RMR: Marmot/ Rundle District,,Same,Duplex housing,"Single detached housing
+ID_00081,29,Marmot Pl cul-de-sac,RMR: Marmot/ Rundle District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.18.0,Same,Duplex housing,"Single detached housing
 Accessory dwelling",0.7,9m,45%,4m,4.5m,1.8m,,RMR: Marmot/ Rundle District,,Low,"Accessory dwelling housing
 Duplex housing
 Fourplex housing
 Public parks
 Triplex housing","Assisted living housing
 Single detached housing",0.9,10.0 m,40%,4m,2m,1.8m
-ID_00092,36,East Marmot Crescent parcels,RMR: Marmot/ Rundle District,,Change,Duplex housing,"Single detached housing
+ID_00092,36,East Marmot Crescent parcels,RMR: Marmot/ Rundle District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.18.0,Change,Duplex housing,"Single detached housing
 Accessory dwelling",0.7,9m,45%,4m,4.5m,1.8m,,RCR: Cougar/ Rabbit District,,High,"Accessory dwelling housing
 Apartment housing
 Fourplex housing
@@ -126,34 +126,34 @@ Multiplex housing","Assisted living housing
 Duplex housing                       
 Single detached housing              
 Triplex Housing",1.6,14.5m,30%,4m,2m,1.8m
-ID_00045,16,"Cascade Ct, Lougheed Ci, Spring Cr",RMR: Marmot/ Rundle District,,Same,Duplex housing,"Single detached housing
+ID_00045,16,"Cascade Ct, Lougheed Ci, Spring Cr",RMR: Marmot/ Rundle District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.18.0,Same,Duplex housing,"Single detached housing
 Accessory dwelling",0.7,9m,45%,4m,4.5m,1.8m,,RMR: Marmot/ Rundle District,,Low,"Accessory dwelling housing
 Duplex housing
 Fourplex housing
 Public parks
 Triplex housing","Assisted living housing
 Single detached housing",0.9,10.0 m,40%,4m,2m,1.8m
-ID_00001,1,Glen Crescent,RMR: Marmot/ Rundle District,,Same,Duplex housing,"Single detached housing
+ID_00001,1,Glen Crescent,RMR: Marmot/ Rundle District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.18.0,Same,Duplex housing,"Single detached housing
 Accessory dwelling",0.7,9m,45%,4m,4.5m,1.8m,,RMR: Marmot/ Rundle District,,Low,"Accessory dwelling housing
 Duplex housing
 Fourplex housing
 Public parks
 Triplex housing","Assisted living housing
 Single detached housing",0.9,10.0 m,40%,4m,2m,1.8m
-ID_00041,14,Glacier Dr and Jasper Wy,RMSI: Middle Springs I District,,Change,Duplex housing,Accessory dwelling,0.6 or 0.5,9m,40%,4m,4.5m,2.5m,,RMSI: Middle Springs I District,,Low,"Accessory dwelling housing
+ID_00041,14,Glacier Dr and Jasper Wy,RMSI: Middle Springs I District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.19.0,Change,Duplex housing,Accessory dwelling,0.6,9m,40%,4m,4.5m,2.5m,,RMSI: Middle Springs I District,,Low,"Accessory dwelling housing
 Duplex housing
 Fourplex housing
 Public parks
 Triplex housing","Assisted living housing
 Single detached housing",0.9,10.0 m,40%,4m,2m,1.8m
-ID_00031,10,Sulphur Court,RMSII(b): Middle Springs II(b) District,,Same,"Duplex housing
+ID_00031,10,Sulphur Court,RMSII(b): Middle Springs II(b) District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.20.0,Same,"Duplex housing
 Row Housing",Accessory dwelling,0.8,10m,40%,4m,4.5m,1.8m,,RMSII(b): Middle Springs II(b) District,,Low,"Accessory dwelling housing
 Duplex housing
 Fourplex housing
 Public parks
 Triplex housing","Assisted living housing
 Single detached housing",0.9,10.0 m,40%,4m,2m,1.8m
-ID_00032,11,Middle Springs Dr between Fairholme Pl and Sulphur Court,RMSII(c);Middle Springs II (c) District,,Same,"Row houses
+ID_00032,11,Middle Springs Dr between Fairholme Pl and Sulphur Court,RMSII(c);Middle Springs II (c) District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.21.0,Same,"Row houses
 Row houses with Accessory Dwellings",,1,10m,40%,4m,4.5m,1.8m,,RMSII(c);Middle Springs II (c) District,,Medium,"Accessory dwelling housing
 Fourplex housing
 Multiplex housing       
@@ -161,7 +161,7 @@ Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
-ID_00033,12,Fairholme Pl,RMSII(d): Middle Springs II (d) District,,Same,"Duplex housing
+ID_00033,12,Fairholme Pl,RMSII(d): Middle Springs II (d) District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.22.0,Same,"Duplex housing
 Row housing","Accessory dwellings
 Single detached housing",0.8,9m,45%,3.8m,4.5m,1.8m,,RMSII(d): Middle Springs II (d) District,,Low,"Accessory dwelling housing
 Duplex housing
@@ -169,7 +169,7 @@ Fourplex housing
 Public parks
 Triplex housing","Assisted living housing
 Single detached housing",0.9,10.0 m,40%,4m,2m,1.8m
-ID_00051,19,West end of Middle Springs Dr,RMSII(e):Middle Springs II(e) District,,Same,"Duplex housing
+ID_00051,19,West end of Middle Springs Dr,RMSII(e):Middle Springs II(e) District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.23.0,Same,"Duplex housing
 Accessory dwellings (some lots)","Single detached housing
 Accessory dwellings (some lots)",0.6,9m,45%,4m,4.5m,1.8m,,RMSII(e):Middle Springs II(e) District,,Low,"Accessory dwelling housing
 Duplex housing
@@ -177,14 +177,14 @@ Fourplex housing
 Public parks
 Triplex housing","Assisted living housing
 Single detached housing",0.9,10.0 m,40%,4m,2m,1.8m
-ID_00067,24,Sundance Ct,RMSII(f): Middle Springs II(f) District,,Same,Row housing,,1,10m,45%,3.8m,4.5m,1.8m,,RMSII(f): Middle Springs II(f) District,,Medium,"Accessory dwelling housing
+ID_00067,24,Sundance Ct,RMSII(f): Middle Springs II(f) District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.24.0,Same,Row housing,,1,10m,45%,3.8m,4.5m,1.8m,,RMSII(f): Middle Springs II(f) District,,Medium,"Accessory dwelling housing
 Fourplex housing
 Multiplex housing       
 Triplex housing","Apartment Housing 
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
-ID_00022,7,East-central grid residential,RNC: North Central District,,Same,"Duplex housing
+ID_00022,7,East-central grid residential,RNC: North Central District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.25.0,Same,"Duplex housing
 Triplex housing
 Fourplex housing","Group homes
 Single detached housing
@@ -195,21 +195,21 @@ Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
-ID_00090,34,Rectangle between slopes and Rainbow Ave,RMSI: Middle Springs I District,,Change,Duplex housing,Accessory dwelling,0.45,9m,50%,4m,4.5m,2m,,RRA: Rainbow Avenue District,,Medium,"Accessory dwelling housing
+ID_00090,34,Rectangle between slopes and Rainbow Ave,RMSI: Middle Springs I District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.19.0,Change,Duplex housing,Accessory dwelling,0.5,9m,40%,4m,4.5m,2m,,RRA: Rainbow Avenue District,,Medium,"Accessory dwelling housing
 Fourplex housing
 Multiplex housing       
 Triplex housing","Apartment Housing 
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
-ID_00091,35,West end of west Park Ave,RMSI: Middle Springs I District,,Change,Duplex housing,Accessory dwelling,0.45,9m,50%,4m,4.5m,2m,,RRA: Rainbow Avenue District,,Medium,"Accessory dwelling housing
+ID_00091,35,West end of west Park Ave,RMSI: Middle Springs I District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.19.0,Change,Duplex housing,Accessory dwelling,0.5,9m,40%,4m,4.5m,2m,,RRA: Rainbow Avenue District,,Medium,"Accessory dwelling housing
 Fourplex housing
 Multiplex housing       
 Triplex housing","Apartment Housing 
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
-ID_00018,3,Most of Rainbow Ave and Park Ave,RRA: Rainbow Avenue District,,Same,Duplex housing,"Accessory dwelling
+ID_00018,3,Most of Rainbow Ave and Park Ave,RRA: Rainbow Avenue District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.26.0,Same,Duplex housing,"Accessory dwelling
 Group homes
 Single detached housing",0.45,9m,50%,4m,4.5m,2m,,RRA: Rainbow Avenue District,,Medium,"Accessory dwelling housing
 Fourplex housing
@@ -218,7 +218,7 @@ Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
-ID_00023,8,East of Bow Ave,RRF: River Front District,,Same,Duplex housing,"Accessory dwelling
+ID_00023,8,East of Bow Ave,RRF: River Front District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.27.0,Same,Duplex housing,"Accessory dwelling
 Single detached housing",0.45,8m,50%,6m,4.5m,2m,,RRF: River Front District,,Medium,"Accessory dwelling housing
 Fourplex housing
 Multiplex housing       
@@ -226,14 +226,14 @@ Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
-ID_00064,23,East end of Buffalo St,RRF: River Front District,,Change,Duplex housing,"Accessory dwelling
+ID_00064,23,East end of Buffalo St,RRF: River Front District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.27.0,Change,Duplex housing,"Accessory dwelling
 Single detached housing",0.45,8m,50%,6m,4.5m,2m,,RTM: Tunnel Mountain District,,Low,"Accessory dwelling housing
 Duplex housing
 Fourplex housing
 Public parks
 Triplex housing","Assisted living housing
 Single detached housing",0.9,10.0 m,40%,4m,2m,1.8m
-ID_00047,18,East end of Banff Springs Hotel,RRF: River Front District,,Same,Duplex housing,"Accessory dwelling
+ID_00047,18,East end of Banff Springs Hotel,RRF: River Front District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.27.0,Same,Duplex housing,"Accessory dwelling
 Single detached housing",0.45,8m,50%,6m,4.5m,2m,,RRF: River Front District,,Medium,"Accessory dwelling housing
 Fourplex housing
 Multiplex housing       
@@ -241,7 +241,7 @@ Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
-ID_00089,33,West end of south side of Buffalo Street,RRF: River Front District,,Same,Duplex housing,"Accessory dwelling
+ID_00089,33,West end of south side of Buffalo Street,RRF: River Front District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.27.0,Same,Duplex housing,"Accessory dwelling
 Single detached housing",0.45,8m,50%,6m,4.5m,2m,,RRF: River Front District,,Medium,"Accessory dwelling housing
 Fourplex housing
 Multiplex housing       
@@ -249,7 +249,7 @@ Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
-ID_00019,4,"Spray Ave, Kootenay Ave and Mountain Ave",RSA: Spray Avenue District,,Same,Duplex housing,"Accessory dwelling
+ID_00019,4,"Spray Ave, Kootenay Ave and Mountain Ave",RSA: Spray Avenue District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.28.0,Same,Duplex housing,"Accessory dwelling
 Single detached housing",0.5,9m,50%,6m,4.5m,2m,,RSA: Spray Avenue District,,Medium,"Accessory dwelling housing
 Fourplex housing
 Multiplex housing       
@@ -257,7 +257,7 @@ Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
-ID_00073,25,"Elk, Squirrel, Big Horn area",RSC:Squirrel/ Cougar District,,Same,Duplex housing,"Accessory dwelling
+ID_00073,25,"Elk, Squirrel, Big Horn area",RSC:Squirrel/ Cougar District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.29.0,Same,Duplex housing,"Accessory dwelling
 Group homes
 Triplex housing
 Fourplex housing
@@ -268,7 +268,7 @@ Multiplex housing","Assisted living housing
 Duplex housing                       
 Single detached housing              
 Triplex Housing",1.6,14.5m,30%,4m,2m,1.8m
-ID_00054,20,North side of Cougar between Rabbit and Fox,RSC:Squirrel/ Cougar District,,Same,Duplex housing,"Accessory dwelling
+ID_00054,20,North side of Cougar between Rabbit and Fox,RSC:Squirrel/ Cougar District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.29.0,Same,Duplex housing,"Accessory dwelling
 Group homes
 Triplex housing
 Fourplex housing
@@ -279,7 +279,7 @@ Multiplex housing","Assisted living housing
 Duplex housing                       
 Single detached housing              
 Triplex Housing",1.6,14.5m,30%,4m,2m,1.8m
-ID_00093,37,Deer Street area,RTM: Tunnel Mountain District,,Change,Duplex housing,"Accessory dwelling
+ID_00093,37,Deer Street area,RTM: Tunnel Mountain District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.30.0,Change,Duplex housing,"Accessory dwelling
 Group homes
 Triplex housing
 Fourplex housing
@@ -290,7 +290,7 @@ Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
-ID_00094,38,"Beginnings of slopes of Tunnel Mountain, south end",RTM: Tunnel Mountain District,,Change,Duplex housing,"Accessory dwelling
+ID_00094,38,"Beginnings of slopes of Tunnel Mountain, south end",RTM: Tunnel Mountain District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.30.0,Change,Duplex housing,"Accessory dwelling
 Group homes
 Triplex housing
 Fourplex housing
@@ -301,7 +301,7 @@ Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
-ID_00088,32,East side of St. Julien Rd,RTM: Tunnel Mountain District,,Same,Duplex housing,"Accessory dwelling
+ID_00088,32,East side of St. Julien Rd,RTM: Tunnel Mountain District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.30.0,Same,Duplex housing,"Accessory dwelling
 Group homes
 Triplex housing
 Fourplex housing
@@ -311,7 +311,7 @@ Fourplex housing
 Public parks
 Triplex housing","Assisted living housing
 Single detached housing",0.9,10.0 m,40%,4m,2m,1.8m
-ID_00077,27,Antelope Lane and Otter Lane,RTR: Tatanga Ridge District,,Same,"Duplex housing
+ID_00077,27,Antelope Lane and Otter Lane,RTR: Tatanga Ridge District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.31.0,Same,"Duplex housing
 Row housing","Apartments
 Triplex Housing
 Fourplex Housing
@@ -322,16 +322,16 @@ Triplex housing","Apartment Housing
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
-ID_00060,22,Nahanni Dr and Kluane Dr,RVV: Valley View District,,Same,Row housing,Stacked row housing,0.5,9m,40%,4m,4.5m,2m,,RVV: Valley View District,,Medium,"Accessory dwelling housing
+ID_00060,22,Nahanni Dr and Kluane Dr,RVV: Valley View District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.32.0,Same,Row housing,Stacked row housing,0.5,9m,40%,4m,4.5m,2m,,RVV: Valley View District,,Medium,"Accessory dwelling housing
 Fourplex housing
 Multiplex housing       
 Triplex housing","Apartment Housing 
 Assisted living housing
 Duplex Housing
 Single detached housing",1,11.5m,35%,4m,2m,1.8m
-ID_00044,15,Co-op,RWB: West Birch District,https://banff.ca/,Same,"Apartment housing
+ID_00044,15,Co-op,RWB: West Birch District,https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.33.0,Same,"Apartment housing
 Group homes","Row housing
-Stacked row housing",0.8,11m,20%,3m,3m,3m,,RWB: West Birch District,https://banff.ca/,High,"Accessory dwelling housing
+Stacked row housing",0.8,11m,20%,3m,3m,3m,,RWB: West Birch District,,High,"Accessory dwelling housing
 Apartment housing
 Fourplex housing
 Multiplex housing","Assisted living housing            

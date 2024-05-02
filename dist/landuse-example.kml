@@ -39,7 +39,7 @@
             <Placemark id="ID_00001">
                 <name>1</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -50,7 +50,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RMR: Marmot/ Rundle District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.18.0" target="_blank" title="Current Land Use Bylaw">RMR: Marmot/ Rundle District</a>
             </td>
             <td>
                     RMR: Marmot/ Rundle District
@@ -99,30 +99,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -423,7 +423,7 @@
             <Placemark id="ID_00011">
                 <name>2</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -434,7 +434,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RBA: Banff Avenue District 
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.11.0" target="_blank" title="Current Land Use Bylaw">RBA: Banff Avenue District </a>
             </td>
             <td>
                     RBA: Banff Avenue District 
@@ -483,30 +483,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -717,7 +717,7 @@
             <Placemark id="ID_00018">
                 <name>3</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -728,7 +728,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RRA: Rainbow Avenue District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.26.0" target="_blank" title="Current Land Use Bylaw">RRA: Rainbow Avenue District</a>
             </td>
             <td>
                     RRA: Rainbow Avenue District
@@ -777,30 +777,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -826,7 +826,7 @@
             <Placemark id="ID_00019">
                 <name>4</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -837,7 +837,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RSA: Spray Avenue District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.28.0" target="_blank" title="Current Land Use Bylaw">RSA: Spray Avenue District</a>
             </td>
             <td>
                     RSA: Spray Avenue District
@@ -886,30 +886,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -935,7 +935,7 @@
             <Placemark id="ID_00020">
                 <name>5</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -946,7 +946,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RGA: Glen Avenue District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.17.0" target="_blank" title="Current Land Use Bylaw">RGA: Glen Avenue District</a>
             </td>
             <td>
                     RGA: Glen Avenue District
@@ -980,12 +980,12 @@
         </tr>
         <tr>
             <td>Min Front Yard<br/>Setback</td>
-            <td>6 or 3m</td>
+            <td>6m</td>
             <td>4m</td>
         </tr>
         <tr>
             <td>Min Rear Yard<br/>Setback</td>
-            <td>Not specified</td>
+            <td>3m</td>
             <td>2m</td>
         </tr>
         <tr>
@@ -995,30 +995,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -1044,7 +1044,7 @@
             <Placemark id="ID_00021">
                 <name>6</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -1055,7 +1055,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RCM: Central Muskrat District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.14.0" target="_blank" title="Current Land Use Bylaw">RCM: Central Muskrat District</a>
             </td>
             <td>
                     RCM: Central Muskrat District
@@ -1079,7 +1079,7 @@
         </tr>
         <tr>
             <td>Max Height</td>
-            <td>11m/9m</td>
+            <td>11m</td>
             <td>14.5m</td>
         </tr>
         <tr>
@@ -1104,30 +1104,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -1153,7 +1153,7 @@
             <Placemark id="ID_00022">
                 <name>7</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -1164,7 +1164,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RNC: North Central District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.25.0" target="_blank" title="Current Land Use Bylaw">RNC: North Central District</a>
             </td>
             <td>
                     RNC: North Central District
@@ -1213,30 +1213,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -1262,7 +1262,7 @@
             <Placemark id="ID_00023">
                 <name>8</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -1273,7 +1273,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RRF: River Front District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.27.0" target="_blank" title="Current Land Use Bylaw">RRF: River Front District</a>
             </td>
             <td>
                     RRF: River Front District
@@ -1322,30 +1322,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -1401,7 +1401,7 @@
             <Placemark id="ID_00025">
                 <name>9</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -1412,7 +1412,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RBA: Banff Avenue District 
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.11.0" target="_blank" title="Current Land Use Bylaw">RBA: Banff Avenue District </a>
             </td>
             <td>
                     RBA: Banff Avenue District 
@@ -1461,30 +1461,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -1660,7 +1660,7 @@
             <Placemark id="ID_00031">
                 <name>10</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -1671,7 +1671,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RMSII(b): Middle Springs II(b) District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.20.0" target="_blank" title="Current Land Use Bylaw">RMSII(b): Middle Springs II(b) District</a>
             </td>
             <td>
                     RMSII(b): Middle Springs II(b) District
@@ -1720,30 +1720,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -1769,7 +1769,7 @@
             <Placemark id="ID_00032">
                 <name>11</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -1780,7 +1780,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RMSII(c);Middle Springs II (c) District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.21.0" target="_blank" title="Current Land Use Bylaw">RMSII(c);Middle Springs II (c) District</a>
             </td>
             <td>
                     RMSII(c);Middle Springs II (c) District
@@ -1829,30 +1829,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -1878,7 +1878,7 @@
             <Placemark id="ID_00033">
                 <name>12</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -1889,7 +1889,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RMSII(d): Middle Springs II (d) District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.22.0" target="_blank" title="Current Land Use Bylaw">RMSII(d): Middle Springs II (d) District</a>
             </td>
             <td>
                     RMSII(d): Middle Springs II (d) District
@@ -1938,30 +1938,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -2167,7 +2167,7 @@
             <Placemark id="ID_00040">
                 <name>13</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -2178,7 +2178,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RCA: Cave Avenue District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.13.0" target="_blank" title="Current Land Use Bylaw">RCA: Cave Avenue District</a>
             </td>
             <td>
                     RCA: Cave Avenue District
@@ -2227,30 +2227,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -2276,7 +2276,7 @@
             <Placemark id="ID_00041">
                 <name>14</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -2287,7 +2287,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RMSI: Middle Springs I District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.19.0" target="_blank" title="Current Land Use Bylaw">RMSI: Middle Springs I District</a>
             </td>
             <td>
                     RMSI: Middle Springs I District
@@ -2306,7 +2306,7 @@
         </tr>
         <tr>
             <td>Max FAR</td>
-            <td>0.6 or 0.5</td>
+            <td>0.6</td>
             <td>0.9</td>
         </tr>
         <tr>
@@ -2336,30 +2336,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -2445,7 +2445,7 @@
             <Placemark id="ID_00044">
                 <name>15</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -2456,10 +2456,10 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    <a href="https://banff.ca/" target="_blank" title="Current Land Use Bylaw">RWB: West Birch District</a>
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.33.0" target="_blank" title="Current Land Use Bylaw">RWB: West Birch District</a>
             </td>
             <td>
-                    <a href="https://banff.ca/" target="_blank" title="Proposed Land Use Bylaw">RWB: West Birch District</a>
+                    RWB: West Birch District
             </td>
         </tr>
 
@@ -2505,30 +2505,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -2554,7 +2554,7 @@
             <Placemark id="ID_00045">
                 <name>16</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -2565,7 +2565,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RMR: Marmot/ Rundle District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.18.0" target="_blank" title="Current Land Use Bylaw">RMR: Marmot/ Rundle District</a>
             </td>
             <td>
                     RMR: Marmot/ Rundle District
@@ -2614,30 +2614,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -2663,7 +2663,7 @@
             <Placemark id="ID_00046">
                 <name>17</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -2674,7 +2674,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RBS: Banff Springs District 
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.12.0" target="_blank" title="Current Land Use Bylaw">RBS: Banff Springs District </a>
             </td>
             <td>
                     RBS: Banff Springs District 
@@ -2693,7 +2693,7 @@
         </tr>
         <tr>
             <td>Max FAR</td>
-            <td>Not specified</td>
+            <td>115 dwellings/ha</td>
             <td>1.6</td>
         </tr>
         <tr>
@@ -2723,30 +2723,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -2772,7 +2772,7 @@
             <Placemark id="ID_00047">
                 <name>18</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -2783,7 +2783,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RRF: River Front District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.27.0" target="_blank" title="Current Land Use Bylaw">RRF: River Front District</a>
             </td>
             <td>
                     RRF: River Front District
@@ -2832,30 +2832,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -2971,7 +2971,7 @@
             <Placemark id="ID_00051">
                 <name>19</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -2982,7 +2982,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RMSII(e):Middle Springs II(e) District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.23.0" target="_blank" title="Current Land Use Bylaw">RMSII(e):Middle Springs II(e) District</a>
             </td>
             <td>
                     RMSII(e):Middle Springs II(e) District
@@ -3031,30 +3031,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -3140,7 +3140,7 @@
             <Placemark id="ID_00054">
                 <name>20</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -3151,7 +3151,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RSC:Squirrel/ Cougar District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.29.0" target="_blank" title="Current Land Use Bylaw">RSC:Squirrel/ Cougar District</a>
             </td>
             <td>
                     RSC:Squirrel/ Cougar District
@@ -3200,30 +3200,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -3399,7 +3399,7 @@
             <Placemark id="ID_00060">
                 <name>22</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -3410,7 +3410,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RVV: Valley View District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.32.0" target="_blank" title="Current Land Use Bylaw">RVV: Valley View District</a>
             </td>
             <td>
                     RVV: Valley View District
@@ -3459,30 +3459,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -3603,7 +3603,7 @@
             <Placemark id="ID_00064">
                 <name>23</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -3614,7 +3614,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RRF: River Front District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.27.0" target="_blank" title="Current Land Use Bylaw">RRF: River Front District</a>
             </td>
             <td>
                     RTM: Tunnel Mountain District
@@ -3663,30 +3663,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -3772,7 +3772,7 @@
             <Placemark id="ID_00067">
                 <name>24</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -3783,7 +3783,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RMSII(f): Middle Springs II(f) District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.24.0" target="_blank" title="Current Land Use Bylaw">RMSII(f): Middle Springs II(f) District</a>
             </td>
             <td>
                     RMSII(f): Middle Springs II(f) District
@@ -3832,30 +3832,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -4031,7 +4031,7 @@
             <Placemark id="ID_00073">
                 <name>25</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -4042,7 +4042,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RSC:Squirrel/ Cougar District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.29.0" target="_blank" title="Current Land Use Bylaw">RSC:Squirrel/ Cougar District</a>
             </td>
             <td>
                     RSC:Squirrel/ Cougar District
@@ -4091,30 +4091,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -4140,7 +4140,7 @@
             <Placemark id="ID_00074">
                 <name>26</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -4151,7 +4151,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RCR: Cougar/ Rabbit District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.16.0" target="_blank" title="Current Land Use Bylaw">RCR: Cougar/ Rabbit District</a>
             </td>
             <td>
                     RCR: Cougar/ Rabbit District
@@ -4175,7 +4175,7 @@
         </tr>
         <tr>
             <td>Max Height</td>
-            <td>11m/9m</td>
+            <td>11m</td>
             <td>14.5m</td>
         </tr>
         <tr>
@@ -4200,30 +4200,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -4309,7 +4309,7 @@
             <Placemark id="ID_00077">
                 <name>27</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -4320,7 +4320,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RTR: Tatanga Ridge District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.31.0" target="_blank" title="Current Land Use Bylaw">RTR: Tatanga Ridge District</a>
             </td>
             <td>
                     RTR: Tatanga Ridge District
@@ -4369,30 +4369,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -4418,7 +4418,7 @@
             <Placemark id="ID_00078">
                 <name>28</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -4429,7 +4429,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RCN: Cougar North District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.15.0" target="_blank" title="Current Land Use Bylaw">RCN: Cougar North District</a>
             </td>
             <td>
                     RCR: Cougar/ Rabbit District
@@ -4463,45 +4463,45 @@
         </tr>
         <tr>
             <td>Min Front Yard<br/>Setback</td>
-            <td>Not specified</td>
+            <td>discretionary</td>
             <td>4m</td>
         </tr>
         <tr>
             <td>Min Rear Yard<br/>Setback</td>
-            <td>Not specified</td>
+            <td>discretionary</td>
             <td>2m</td>
         </tr>
         <tr>
             <td>Min Side Yard<br/>Setback</td>
-            <td>Not specified</td>
+            <td>discretionary</td>
             <td>1.8m</td>
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -4587,7 +4587,7 @@
             <Placemark id="ID_00081">
                 <name>29</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -4598,7 +4598,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RMR: Marmot/ Rundle District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.18.0" target="_blank" title="Current Land Use Bylaw">RMR: Marmot/ Rundle District</a>
             </td>
             <td>
                     RMR: Marmot/ Rundle District
@@ -4647,30 +4647,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -4696,7 +4696,7 @@
             <Placemark id="ID_00082">
                 <name>30</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -4707,7 +4707,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RCN: Cougar North District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.15.0" target="_blank" title="Current Land Use Bylaw">RCN: Cougar North District</a>
             </td>
             <td>
                     RCR: Cougar/ Rabbit District
@@ -4741,45 +4741,45 @@
         </tr>
         <tr>
             <td>Min Front Yard<br/>Setback</td>
-            <td>Not specified</td>
+            <td>discretionary</td>
             <td>4m</td>
         </tr>
         <tr>
             <td>Min Rear Yard<br/>Setback</td>
-            <td>Not specified</td>
+            <td>discretionary</td>
             <td>2m</td>
         </tr>
         <tr>
             <td>Min Side Yard<br/>Setback</td>
-            <td>Not specified</td>
+            <td>discretionary</td>
             <td>1.8m</td>
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -4835,7 +4835,7 @@
             <Placemark id="ID_00084">
                 <name>31</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -4846,7 +4846,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RCN: Cougar North District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.15.0" target="_blank" title="Current Land Use Bylaw">RCN: Cougar North District</a>
             </td>
             <td>
                     RCN:Cougar North District
@@ -4880,45 +4880,45 @@
         </tr>
         <tr>
             <td>Min Front Yard<br/>Setback</td>
-            <td>Not specified</td>
+            <td>discretionary</td>
             <td>4m</td>
         </tr>
         <tr>
             <td>Min Rear Yard<br/>Setback</td>
-            <td>Not specified</td>
+            <td>discretionary</td>
             <td>2m</td>
         </tr>
         <tr>
             <td>Min Side Yard<br/>Setback</td>
-            <td>Not specified</td>
+            <td>discretionary</td>
             <td>1.8m</td>
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -5034,7 +5034,7 @@
             <Placemark id="ID_00088">
                 <name>32</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -5045,7 +5045,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RTM: Tunnel Mountain District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.30.0" target="_blank" title="Current Land Use Bylaw">RTM: Tunnel Mountain District</a>
             </td>
             <td>
                     RTM: Tunnel Mountain District
@@ -5094,30 +5094,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -5143,7 +5143,7 @@
             <Placemark id="ID_00089">
                 <name>33</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -5154,7 +5154,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RRF: River Front District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.27.0" target="_blank" title="Current Land Use Bylaw">RRF: River Front District</a>
             </td>
             <td>
                     RRF: River Front District
@@ -5203,30 +5203,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -5252,7 +5252,7 @@
             <Placemark id="ID_00090">
                 <name>34</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -5263,7 +5263,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RMSI: Middle Springs I District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.19.0" target="_blank" title="Current Land Use Bylaw">RMSI: Middle Springs I District</a>
             </td>
             <td>
                     RRA: Rainbow Avenue District
@@ -5282,7 +5282,7 @@
         </tr>
         <tr>
             <td>Max FAR</td>
-            <td>0.45</td>
+            <td>0.5</td>
             <td>1</td>
         </tr>
         <tr>
@@ -5292,7 +5292,7 @@
         </tr>
         <tr>
             <td>Min Landscaping<br/>Requirement</td>
-            <td>50%</td>
+            <td>40%</td>
             <td>35%</td>
         </tr>
         <tr>
@@ -5312,30 +5312,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -5361,7 +5361,7 @@
             <Placemark id="ID_00091">
                 <name>35</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -5372,7 +5372,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RMSI: Middle Springs I District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.19.0" target="_blank" title="Current Land Use Bylaw">RMSI: Middle Springs I District</a>
             </td>
             <td>
                     RRA: Rainbow Avenue District
@@ -5391,7 +5391,7 @@
         </tr>
         <tr>
             <td>Max FAR</td>
-            <td>0.45</td>
+            <td>0.5</td>
             <td>1</td>
         </tr>
         <tr>
@@ -5401,7 +5401,7 @@
         </tr>
         <tr>
             <td>Min Landscaping<br/>Requirement</td>
-            <td>50%</td>
+            <td>40%</td>
             <td>35%</td>
         </tr>
         <tr>
@@ -5421,30 +5421,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -5470,7 +5470,7 @@
             <Placemark id="ID_00092">
                 <name>36</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -5481,7 +5481,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RMR: Marmot/ Rundle District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.18.0" target="_blank" title="Current Land Use Bylaw">RMR: Marmot/ Rundle District</a>
             </td>
             <td>
                     RCR: Cougar/ Rabbit District
@@ -5530,30 +5530,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -5579,7 +5579,7 @@
             <Placemark id="ID_00093">
                 <name>37</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -5590,7 +5590,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RTM: Tunnel Mountain District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.30.0" target="_blank" title="Current Land Use Bylaw">RTM: Tunnel Mountain District</a>
             </td>
             <td>
                     RNC: North Central District
@@ -5639,30 +5639,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
@@ -5688,7 +5688,7 @@
             <Placemark id="ID_00094">
                 <name>38</name>
                 <snippet/>
-                <description><![CDATA[<div class="content-scrollable">
+                <description><![CDATA[<div>
     <table>
         <tr>
             <th></th>
@@ -5699,7 +5699,7 @@
         <tr>
             <td>LUB District</td>
             <td>
-                    RTM: Tunnel Mountain District
+                    <a href="https://www.codepublishing.com/AB/Banff/html/Banff12.html#12.30.0" target="_blank" title="Current Land Use Bylaw">RTM: Tunnel Mountain District</a>
             </td>
             <td>
                     RNC: North Central District
@@ -5748,30 +5748,30 @@
         </tr>
     </table>
 </div>
-<div class="sidebar-footer">
+<div>
     <p>
     <strong>Please note:</strong>
     <br />
-    Uses: In addition to the permitted and discretionary uses noted above, other
+    <emphasis>Uses</emphasis>: In addition to the permitted and discretionary uses noted above, other
     uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
     Parks etc. vary across all districts and no changes are proposed to those
     uses.
     <br />
-    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    <emphasis>Max FAR:</emphasis> FAR means Floor Area Ratio which is the total floor area of all
     levels of a buildings on a site, divided by the area of the site. Through
     the current regulations, in order to build the maximum, specific conditions
     must be met such as providing parking underground and/or for specific
     housing types. The proposed changes would allow the maximum FAR when more
     homes are proposed.
     <br />
-    Max Height: The maximum building height is calculated to the mid-point of
+    <emphasis>Max Height:</emphasis> The maximum building height is calculated to the mid-point of
     the roof. For reference, 14.5 m allows for a 4 storey building.
     <br />
-    Min Landscaping Requirement: The minimum landscaping requirement would
+    <emphasis>Min Landscaping Requirement:</emphasis> The minimum landscaping requirement would
     include hard surfaced amenity areas as well as all soft landscaped areas,
     but wouldn't include driveways or surface parking areas.
     <br />
-    Setbacks: The numbers above are the smallest permitted, however some of
+    <emphasis>Setbacks:</emphasis> The numbers above are the smallest permitted, however some of
     these increase as the building gets higher.
     </p>
 </div>
