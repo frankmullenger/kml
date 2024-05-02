@@ -39,64 +39,93 @@
             <Placemark id="ID_00001">
                 <name>1</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RMR: Marmot/ Rundle District
-        </td>
-        <td>
-                RMR: Marmot/ Rundle District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RMR: Marmot/ Rundle District
+            </td>
+            <td>
+                    RMR: Marmot/ Rundle District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Duplex housing</td>
-        <td>Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Single detached housing<br>Accessory dwelling</td>
-        <td>Assisted living housing<br>Single detached housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.7</td>
-        <td>0.9</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>9m</td>
-        <td>10.0 m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>45%</td>
-        <td>40%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>4m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>1.8m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Duplex housing</td>
+            <td>Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Single detached housing<br>Accessory dwelling</td>
+            <td>Assisted living housing<br>Single detached housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.7</td>
+            <td>0.9</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>9m</td>
+            <td>10.0 m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>45%</td>
+            <td>40%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>4m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>1.8m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00001</span>
@@ -394,64 +423,93 @@
             <Placemark id="ID_00011">
                 <name>2</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RBA: Banff Avenue District 
-        </td>
-        <td>
-                RBA: Banff Avenue District 
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RBA: Banff Avenue District 
+            </td>
+            <td>
+                    RBA: Banff Avenue District 
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Apartment housing<br>Fourplex housing</td>
-        <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Group homes<br>Stacked row housing<br>Row housing<br>Duplex housing<br>Single detached housing<br>Accessory dwelling</td>
-        <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>1.3</td>
-        <td>1.6</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>11.5m</td>
-        <td>14.5m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>30%</td>
-        <td>30%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>4m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>2m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Apartment housing<br>Fourplex housing</td>
+            <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Group homes<br>Stacked row housing<br>Row housing<br>Duplex housing<br>Single detached housing<br>Accessory dwelling</td>
+            <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>1.3</td>
+            <td>1.6</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>11.5m</td>
+            <td>14.5m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>30%</td>
+            <td>30%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>4m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>2m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00011</span>
@@ -659,64 +717,93 @@
             <Placemark id="ID_00018">
                 <name>3</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RRA: Rainbow Avenue District
-        </td>
-        <td>
-                RRA: Rainbow Avenue District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RRA: Rainbow Avenue District
+            </td>
+            <td>
+                    RRA: Rainbow Avenue District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Duplex housing</td>
-        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Accessory dwelling<br>Group homes<br>Single detached housing</td>
-        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.45</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>9m</td>
-        <td>11.5m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>50%</td>
-        <td>35%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>4m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>2m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Duplex housing</td>
+            <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Accessory dwelling<br>Group homes<br>Single detached housing</td>
+            <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.45</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>9m</td>
+            <td>11.5m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>50%</td>
+            <td>35%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>4m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>2m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00018</span>
@@ -739,64 +826,93 @@
             <Placemark id="ID_00019">
                 <name>4</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RSA: Spray Avenue District
-        </td>
-        <td>
-                RSA: Spray Avenue District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RSA: Spray Avenue District
+            </td>
+            <td>
+                    RSA: Spray Avenue District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Duplex housing</td>
-        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Accessory dwelling<br>Single detached housing</td>
-        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.5</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>9m</td>
-        <td>11.5m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>50%</td>
-        <td>35%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>6m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>2m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Duplex housing</td>
+            <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Accessory dwelling<br>Single detached housing</td>
+            <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.5</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>9m</td>
+            <td>11.5m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>50%</td>
+            <td>35%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>6m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>2m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00019</span>
@@ -819,64 +935,93 @@
             <Placemark id="ID_00020">
                 <name>5</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RGA: Glen Avenue District
-        </td>
-        <td>
-                RGA: Glen Avenue District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RGA: Glen Avenue District
+            </td>
+            <td>
+                    RGA: Glen Avenue District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Duplex housing<br>Row housing</td>
-        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Single detached housing<br>Fourplex housing<br>Stacked row housing<br>Accessory dwelling</td>
-        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.5</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>10m</td>
-        <td>11.5</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>30%</td>
-        <td>35%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>6 or 3m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>Not specified</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>2m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Duplex housing<br>Row housing</td>
+            <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Single detached housing<br>Fourplex housing<br>Stacked row housing<br>Accessory dwelling</td>
+            <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.5</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>10m</td>
+            <td>11.5</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>30%</td>
+            <td>35%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>6 or 3m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>Not specified</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>2m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00020</span>
@@ -899,64 +1044,93 @@
             <Placemark id="ID_00021">
                 <name>6</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RCM: Central Muskrat District
-        </td>
-        <td>
-                RCM: Central Muskrat District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RCM: Central Muskrat District
+            </td>
+            <td>
+                    RCM: Central Muskrat District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Apartment housing<br>Fourplex housing<br>Stacked row housing</td>
-        <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Duplex housing<br>Triplex housing<br>Group homes<br>Row housing<br>Single detached housing<br>Senior citizen housing   <br>Accessory dwelling</td>
-        <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>1.3</td>
-        <td>1.6</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>11m/9m</td>
-        <td>14.5m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>40%</td>
-        <td>30%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>4m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>1.8m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Apartment housing<br>Fourplex housing<br>Stacked row housing</td>
+            <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Duplex housing<br>Triplex housing<br>Group homes<br>Row housing<br>Single detached housing<br>Senior citizen housing   <br>Accessory dwelling</td>
+            <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>1.3</td>
+            <td>1.6</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>11m/9m</td>
+            <td>14.5m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>40%</td>
+            <td>30%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>4m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>1.8m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00021</span>
@@ -979,64 +1153,93 @@
             <Placemark id="ID_00022">
                 <name>7</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RNC: North Central District
-        </td>
-        <td>
-                RNC: North Central District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RNC: North Central District
+            </td>
+            <td>
+                    RNC: North Central District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Duplex housing<br>Triplex housing<br>Fourplex housing</td>
-        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Group homes<br>Single detached housing<br>Accessory dwelling</td>
-        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.8</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>9m</td>
-        <td>11.5m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>40%</td>
-        <td>35%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>4m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>1.8m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Duplex housing<br>Triplex housing<br>Fourplex housing</td>
+            <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Group homes<br>Single detached housing<br>Accessory dwelling</td>
+            <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.8</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>9m</td>
+            <td>11.5m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>40%</td>
+            <td>35%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>4m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>1.8m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00022</span>
@@ -1059,64 +1262,93 @@
             <Placemark id="ID_00023">
                 <name>8</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RRF: River Front District
-        </td>
-        <td>
-                RRF: River Front District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RRF: River Front District
+            </td>
+            <td>
+                    RRF: River Front District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Duplex housing</td>
-        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Accessory dwelling<br>Single detached housing</td>
-        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.45</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>8m</td>
-        <td>11.5m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>50%</td>
-        <td>35%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>6m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>2m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Duplex housing</td>
+            <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Accessory dwelling<br>Single detached housing</td>
+            <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.45</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>8m</td>
+            <td>11.5m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>50%</td>
+            <td>35%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>6m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>2m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00023</span>
@@ -1169,64 +1401,93 @@
             <Placemark id="ID_00025">
                 <name>9</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RBA: Banff Avenue District 
-        </td>
-        <td>
-                RBA: Banff Avenue District 
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RBA: Banff Avenue District 
+            </td>
+            <td>
+                    RBA: Banff Avenue District 
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Apartment housing<br>Fourplex housing</td>
-        <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Group homes<br>Stacked row housing<br>Row housing<br>Duplex housing<br>Single detached housing<br>Accessory dwelling</td>
-        <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>1.3</td>
-        <td>1.6</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>11.5m</td>
-        <td>14.5m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>30%</td>
-        <td>30%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>4m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>2m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Apartment housing<br>Fourplex housing</td>
+            <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Group homes<br>Stacked row housing<br>Row housing<br>Duplex housing<br>Single detached housing<br>Accessory dwelling</td>
+            <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>1.3</td>
+            <td>1.6</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>11.5m</td>
+            <td>14.5m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>30%</td>
+            <td>30%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>4m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>2m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00025</span>
@@ -1399,64 +1660,93 @@
             <Placemark id="ID_00031">
                 <name>10</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RMSII(b): Middle Springs II(b) District
-        </td>
-        <td>
-                RMSII(b): Middle Springs II(b) District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RMSII(b): Middle Springs II(b) District
+            </td>
+            <td>
+                    RMSII(b): Middle Springs II(b) District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Duplex housing<br>Row Housing</td>
-        <td>Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Accessory dwelling</td>
-        <td>Assisted living housing<br>Single detached housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.8</td>
-        <td>0.9</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>10m</td>
-        <td>10.0 m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>40%</td>
-        <td>40%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>4m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>1.8m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Duplex housing<br>Row Housing</td>
+            <td>Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Accessory dwelling</td>
+            <td>Assisted living housing<br>Single detached housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.8</td>
+            <td>0.9</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>10m</td>
+            <td>10.0 m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>40%</td>
+            <td>40%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>4m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>1.8m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00031</span>
@@ -1479,64 +1769,93 @@
             <Placemark id="ID_00032">
                 <name>11</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RMSII(c);Middle Springs II (c) District
-        </td>
-        <td>
-                RMSII(c);Middle Springs II (c) District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RMSII(c);Middle Springs II (c) District
+            </td>
+            <td>
+                    RMSII(c);Middle Springs II (c) District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Row houses<br>Row houses with Accessory Dwellings</td>
-        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td></td>
-        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>1</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>10m</td>
-        <td>11.5m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>40%</td>
-        <td>35%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>4m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>1.8m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Row houses<br>Row houses with Accessory Dwellings</td>
+            <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td></td>
+            <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>1</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>10m</td>
+            <td>11.5m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>40%</td>
+            <td>35%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>4m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>1.8m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00032</span>
@@ -1559,64 +1878,93 @@
             <Placemark id="ID_00033">
                 <name>12</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RMSII(d): Middle Springs II (d) District
-        </td>
-        <td>
-                RMSII(d): Middle Springs II (d) District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RMSII(d): Middle Springs II (d) District
+            </td>
+            <td>
+                    RMSII(d): Middle Springs II (d) District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Duplex housing<br>Row housing</td>
-        <td>Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Accessory dwellings<br>Single detached housing</td>
-        <td>Assisted living housing<br>Single detached housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.8</td>
-        <td>0.9</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>9m</td>
-        <td>10.0 m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>45%</td>
-        <td>40%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>3.8m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>1.8m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Duplex housing<br>Row housing</td>
+            <td>Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Accessory dwellings<br>Single detached housing</td>
+            <td>Assisted living housing<br>Single detached housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.8</td>
+            <td>0.9</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>9m</td>
+            <td>10.0 m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>45%</td>
+            <td>40%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>3.8m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>1.8m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00033</span>
@@ -1819,64 +2167,93 @@
             <Placemark id="ID_00040">
                 <name>13</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RCA: Cave Avenue District
-        </td>
-        <td>
-                RCA: Cave Avenue District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RCA: Cave Avenue District
+            </td>
+            <td>
+                    RCA: Cave Avenue District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Duplex housing<br>Triplex housing<br>Fourplex housing</td>
-        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Row housing<br>Single detached housing<br>Stacked row housing<br>Accessory dwelling</td>
-        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.6</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>9m</td>
-        <td>11.5m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>50%</td>
-        <td>35%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>6.0m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>3.0m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>2.4m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Duplex housing<br>Triplex housing<br>Fourplex housing</td>
+            <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Row housing<br>Single detached housing<br>Stacked row housing<br>Accessory dwelling</td>
+            <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.6</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>9m</td>
+            <td>11.5m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>50%</td>
+            <td>35%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>6.0m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>3.0m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>2.4m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00040</span>
@@ -1899,64 +2276,93 @@
             <Placemark id="ID_00041">
                 <name>14</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RMSI: Middle Springs I District
-        </td>
-        <td>
-                RMSI: Middle Springs I District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RMSI: Middle Springs I District
+            </td>
+            <td>
+                    RMSI: Middle Springs I District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Duplex housing</td>
-        <td>Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Accessory dwelling</td>
-        <td>Assisted living housing<br>Single detached housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.6 or 0.5</td>
-        <td>0.9</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>9m</td>
-        <td>10.0 m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>40%</td>
-        <td>40%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>4m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>2.5m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Duplex housing</td>
+            <td>Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Accessory dwelling</td>
+            <td>Assisted living housing<br>Single detached housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.6 or 0.5</td>
+            <td>0.9</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>9m</td>
+            <td>10.0 m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>40%</td>
+            <td>40%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>4m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>2.5m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00041</span>
@@ -2039,64 +2445,93 @@
             <Placemark id="ID_00044">
                 <name>15</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                <a href="https://banff.ca/" target="_blank" title="Current Land Use Bylaw">RWB: West Birch District</a>
-        </td>
-        <td>
-                <a href="https://banff.ca/" target="_blank" title="Proposed Land Use Bylaw">RWB: West Birch District</a>
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    <a href="https://banff.ca/" target="_blank" title="Current Land Use Bylaw">RWB: West Birch District</a>
+            </td>
+            <td>
+                    <a href="https://banff.ca/" target="_blank" title="Proposed Land Use Bylaw">RWB: West Birch District</a>
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Apartment housing<br>Group homes</td>
-        <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Row housing<br>Stacked row housing</td>
-        <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.8</td>
-        <td>1.6</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>11m</td>
-        <td>14.5m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>20%</td>
-        <td>30%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>3m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>3m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>3m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Apartment housing<br>Group homes</td>
+            <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Row housing<br>Stacked row housing</td>
+            <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.8</td>
+            <td>1.6</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>11m</td>
+            <td>14.5m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>20%</td>
+            <td>30%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>3m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>3m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>3m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00044</span>
@@ -2119,64 +2554,93 @@
             <Placemark id="ID_00045">
                 <name>16</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RMR: Marmot/ Rundle District
-        </td>
-        <td>
-                RMR: Marmot/ Rundle District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RMR: Marmot/ Rundle District
+            </td>
+            <td>
+                    RMR: Marmot/ Rundle District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Duplex housing</td>
-        <td>Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Single detached housing<br>Accessory dwelling</td>
-        <td>Assisted living housing<br>Single detached housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.7</td>
-        <td>0.9</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>9m</td>
-        <td>10.0 m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>45%</td>
-        <td>40%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>4m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>1.8m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Duplex housing</td>
+            <td>Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Single detached housing<br>Accessory dwelling</td>
+            <td>Assisted living housing<br>Single detached housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.7</td>
+            <td>0.9</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>9m</td>
+            <td>10.0 m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>45%</td>
+            <td>40%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>4m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>1.8m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00045</span>
@@ -2199,64 +2663,93 @@
             <Placemark id="ID_00046">
                 <name>17</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RBS: Banff Springs District 
-        </td>
-        <td>
-                RBS: Banff Springs District 
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RBS: Banff Springs District 
+            </td>
+            <td>
+                    RBS: Banff Springs District 
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Apartment housing<br>Stacked row housing<br>Row housing</td>
-        <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td></td>
-        <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>Not specified</td>
-        <td>1.6</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>14m</td>
-        <td>14.5m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>40%</td>
-        <td>30%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>9m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>3.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Apartment housing<br>Stacked row housing<br>Row housing</td>
+            <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td></td>
+            <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>Not specified</td>
+            <td>1.6</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>14m</td>
+            <td>14.5m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>40%</td>
+            <td>30%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>9m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>3.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00046</span>
@@ -2279,64 +2772,93 @@
             <Placemark id="ID_00047">
                 <name>18</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RRF: River Front District
-        </td>
-        <td>
-                RRF: River Front District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RRF: River Front District
+            </td>
+            <td>
+                    RRF: River Front District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Duplex housing</td>
-        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Accessory dwelling<br>Single detached housing</td>
-        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.45</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>8m</td>
-        <td>11.5m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>50%</td>
-        <td>35%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>6m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>2m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Duplex housing</td>
+            <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Accessory dwelling<br>Single detached housing</td>
+            <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.45</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>8m</td>
+            <td>11.5m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>50%</td>
+            <td>35%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>6m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>2m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00047</span>
@@ -2449,64 +2971,93 @@
             <Placemark id="ID_00051">
                 <name>19</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RMSII(e):Middle Springs II(e) District
-        </td>
-        <td>
-                RMSII(e):Middle Springs II(e) District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RMSII(e):Middle Springs II(e) District
+            </td>
+            <td>
+                    RMSII(e):Middle Springs II(e) District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Duplex housing<br>Accessory dwellings (some lots)</td>
-        <td>Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Single detached housing<br>Accessory dwellings (some lots)</td>
-        <td>Assisted living housing<br>Single detached housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.6</td>
-        <td>0.9</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>9m</td>
-        <td>10.0 m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>45%</td>
-        <td>40%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>4m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>1.8m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Duplex housing<br>Accessory dwellings (some lots)</td>
+            <td>Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Single detached housing<br>Accessory dwellings (some lots)</td>
+            <td>Assisted living housing<br>Single detached housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.6</td>
+            <td>0.9</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>9m</td>
+            <td>10.0 m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>45%</td>
+            <td>40%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>4m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>1.8m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00051</span>
@@ -2589,64 +3140,93 @@
             <Placemark id="ID_00054">
                 <name>20</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RSC:Squirrel/ Cougar District
-        </td>
-        <td>
-                RSC:Squirrel/ Cougar District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RSC:Squirrel/ Cougar District
+            </td>
+            <td>
+                    RSC:Squirrel/ Cougar District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Duplex housing</td>
-        <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Accessory dwelling<br>Group homes<br>Triplex housing<br>Fourplex housing<br>Single detached housing</td>
-        <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.7</td>
-        <td>1.6</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>9m</td>
-        <td>14.5m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>50%</td>
-        <td>30%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>4m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>2m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Duplex housing</td>
+            <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Accessory dwelling<br>Group homes<br>Triplex housing<br>Fourplex housing<br>Single detached housing</td>
+            <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.7</td>
+            <td>1.6</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>9m</td>
+            <td>14.5m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>50%</td>
+            <td>30%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>4m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>2m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00054</span>
@@ -2819,64 +3399,93 @@
             <Placemark id="ID_00060">
                 <name>22</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RVV: Valley View District
-        </td>
-        <td>
-                RVV: Valley View District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RVV: Valley View District
+            </td>
+            <td>
+                    RVV: Valley View District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Row housing</td>
-        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Stacked row housing</td>
-        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.5</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>9m</td>
-        <td>11.5m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>40%</td>
-        <td>35%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>4m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>2m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Row housing</td>
+            <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Stacked row housing</td>
+            <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.5</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>9m</td>
+            <td>11.5m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>40%</td>
+            <td>35%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>4m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>2m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00060</span>
@@ -2994,64 +3603,93 @@
             <Placemark id="ID_00064">
                 <name>23</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RRF: River Front District
-        </td>
-        <td>
-                RTM: Tunnel Mountain District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RRF: River Front District
+            </td>
+            <td>
+                    RTM: Tunnel Mountain District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Duplex housing</td>
-        <td>Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Accessory dwelling<br>Single detached housing</td>
-        <td>Assisted living housing<br>Single detached housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.45</td>
-        <td>0.9</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>8m</td>
-        <td>10.0 m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>50%</td>
-        <td>40%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>6m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>2m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Duplex housing</td>
+            <td>Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Accessory dwelling<br>Single detached housing</td>
+            <td>Assisted living housing<br>Single detached housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.45</td>
+            <td>0.9</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>8m</td>
+            <td>10.0 m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>50%</td>
+            <td>40%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>6m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>2m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00064</span>
@@ -3134,64 +3772,93 @@
             <Placemark id="ID_00067">
                 <name>24</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RMSII(f): Middle Springs II(f) District
-        </td>
-        <td>
-                RMSII(f): Middle Springs II(f) District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RMSII(f): Middle Springs II(f) District
+            </td>
+            <td>
+                    RMSII(f): Middle Springs II(f) District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Row housing</td>
-        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td></td>
-        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>1</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>10m</td>
-        <td>11.5m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>45%</td>
-        <td>35%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>3.8m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>1.8m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Row housing</td>
+            <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td></td>
+            <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>1</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>10m</td>
+            <td>11.5m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>45%</td>
+            <td>35%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>3.8m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>1.8m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00067</span>
@@ -3364,64 +4031,93 @@
             <Placemark id="ID_00073">
                 <name>25</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RSC:Squirrel/ Cougar District
-        </td>
-        <td>
-                RSC:Squirrel/ Cougar District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RSC:Squirrel/ Cougar District
+            </td>
+            <td>
+                    RSC:Squirrel/ Cougar District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Duplex housing</td>
-        <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Accessory dwelling<br>Group homes<br>Triplex housing<br>Fourplex housing<br>Single detached housing</td>
-        <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.7</td>
-        <td>1.6</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>9m</td>
-        <td>14.5m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>50%</td>
-        <td>30%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>4m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>2m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Duplex housing</td>
+            <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Accessory dwelling<br>Group homes<br>Triplex housing<br>Fourplex housing<br>Single detached housing</td>
+            <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.7</td>
+            <td>1.6</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>9m</td>
+            <td>14.5m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>50%</td>
+            <td>30%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>4m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>2m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00073</span>
@@ -3444,64 +4140,93 @@
             <Placemark id="ID_00074">
                 <name>26</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RCR: Cougar/ Rabbit District
-        </td>
-        <td>
-                RCR: Cougar/ Rabbit District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RCR: Cougar/ Rabbit District
+            </td>
+            <td>
+                    RCR: Cougar/ Rabbit District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Apartment housing<br>Fourplex housing<br>Row housing<br>Stacked row housing</td>
-        <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Duplex housing<br>Triplex housing<br>Group homes<br>Senior citizen housing<br>Single detached housing<br>Accessory dwelling</td>
-        <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>1.2</td>
-        <td>1.6</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>11m/9m</td>
-        <td>14.5m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>40%</td>
-        <td>30%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>4m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>2m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Apartment housing<br>Fourplex housing<br>Row housing<br>Stacked row housing</td>
+            <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Duplex housing<br>Triplex housing<br>Group homes<br>Senior citizen housing<br>Single detached housing<br>Accessory dwelling</td>
+            <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>1.2</td>
+            <td>1.6</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>11m/9m</td>
+            <td>14.5m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>40%</td>
+            <td>30%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>4m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>2m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00074</span>
@@ -3584,64 +4309,93 @@
             <Placemark id="ID_00077">
                 <name>27</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RTR: Tatanga Ridge District
-        </td>
-        <td>
-                RTR: Tatanga Ridge District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RTR: Tatanga Ridge District
+            </td>
+            <td>
+                    RTR: Tatanga Ridge District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Duplex housing<br>Row housing</td>
-        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Apartments<br>Triplex Housing<br>Fourplex Housing<br>Stacked row housing</td>
-        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.7</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>10m</td>
-        <td>11.5m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>20%</td>
-        <td>35%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>4m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>1.8m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Duplex housing<br>Row housing</td>
+            <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Apartments<br>Triplex Housing<br>Fourplex Housing<br>Stacked row housing</td>
+            <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.7</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>10m</td>
+            <td>11.5m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>20%</td>
+            <td>35%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>4m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>1.8m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00077</span>
@@ -3664,64 +4418,93 @@
             <Placemark id="ID_00078">
                 <name>28</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RCN: Cougar North District
-        </td>
-        <td>
-                RCR: Cougar/ Rabbit District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RCN: Cougar North District
+            </td>
+            <td>
+                    RCR: Cougar/ Rabbit District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Row housing</td>
-        <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Apartment housing<br>Stacked row housing</td>
-        <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.5</td>
-        <td>1.6</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>9m</td>
-        <td>14.5m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>40%</td>
-        <td>30%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>Not specified</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>Not specified</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>Not specified</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Row housing</td>
+            <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Apartment housing<br>Stacked row housing</td>
+            <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.5</td>
+            <td>1.6</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>9m</td>
+            <td>14.5m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>40%</td>
+            <td>30%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>Not specified</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>Not specified</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>Not specified</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00078</span>
@@ -3804,64 +4587,93 @@
             <Placemark id="ID_00081">
                 <name>29</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RMR: Marmot/ Rundle District
-        </td>
-        <td>
-                RMR: Marmot/ Rundle District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RMR: Marmot/ Rundle District
+            </td>
+            <td>
+                    RMR: Marmot/ Rundle District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Duplex housing</td>
-        <td>Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Single detached housing<br>Accessory dwelling</td>
-        <td>Assisted living housing<br>Single detached housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.7</td>
-        <td>0.9</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>9m</td>
-        <td>10.0 m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>45%</td>
-        <td>40%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>4m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>1.8m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Duplex housing</td>
+            <td>Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Single detached housing<br>Accessory dwelling</td>
+            <td>Assisted living housing<br>Single detached housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.7</td>
+            <td>0.9</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>9m</td>
+            <td>10.0 m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>45%</td>
+            <td>40%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>4m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>1.8m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00081</span>
@@ -3884,64 +4696,93 @@
             <Placemark id="ID_00082">
                 <name>30</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RCN: Cougar North District
-        </td>
-        <td>
-                RCR: Cougar/ Rabbit District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RCN: Cougar North District
+            </td>
+            <td>
+                    RCR: Cougar/ Rabbit District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td> Row housing</td>
-        <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Apartment housing<br>Stacked row housing</td>
-        <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.5</td>
-        <td>1.6</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>9m</td>
-        <td>14.5m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>40%</td>
-        <td>30%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>Not specified</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>Not specified</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>Not specified</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td> Row housing</td>
+            <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Apartment housing<br>Stacked row housing</td>
+            <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.5</td>
+            <td>1.6</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>9m</td>
+            <td>14.5m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>40%</td>
+            <td>30%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>Not specified</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>Not specified</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>Not specified</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00082</span>
@@ -3994,64 +4835,93 @@
             <Placemark id="ID_00084">
                 <name>31</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RCN: Cougar North District
-        </td>
-        <td>
-                RCN:Cougar North District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RCN: Cougar North District
+            </td>
+            <td>
+                    RCN:Cougar North District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Row housing</td>
-        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Apartment housing<br>Stacked row housing</td>
-        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.5</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>9m</td>
-        <td>11.5m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>40%</td>
-        <td>35%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>Not specified</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>Not specified</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>Not specified</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Row housing</td>
+            <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Apartment housing<br>Stacked row housing</td>
+            <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.5</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>9m</td>
+            <td>11.5m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>40%</td>
+            <td>35%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>Not specified</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>Not specified</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>Not specified</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00084</span>
@@ -4164,64 +5034,93 @@
             <Placemark id="ID_00088">
                 <name>32</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RTM: Tunnel Mountain District
-        </td>
-        <td>
-                RTM: Tunnel Mountain District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RTM: Tunnel Mountain District
+            </td>
+            <td>
+                    RTM: Tunnel Mountain District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Duplex housing</td>
-        <td>Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Accessory dwelling<br>Group homes<br>Triplex housing<br>Fourplex housing<br>Single detached housing</td>
-        <td>Assisted living housing<br>Single detached housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.6</td>
-        <td>0.9</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>9m</td>
-        <td>10.0 m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>50%</td>
-        <td>40%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>4m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>1.8m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Duplex housing</td>
+            <td>Accessory dwelling housing<br>Duplex housing<br>Fourplex housing<br>Public parks<br>Triplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Accessory dwelling<br>Group homes<br>Triplex housing<br>Fourplex housing<br>Single detached housing</td>
+            <td>Assisted living housing<br>Single detached housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.6</td>
+            <td>0.9</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>9m</td>
+            <td>10.0 m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>50%</td>
+            <td>40%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>4m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>1.8m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00088</span>
@@ -4244,64 +5143,93 @@
             <Placemark id="ID_00089">
                 <name>33</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RRF: River Front District
-        </td>
-        <td>
-                RRF: River Front District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RRF: River Front District
+            </td>
+            <td>
+                    RRF: River Front District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Duplex housing</td>
-        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Accessory dwelling<br>Single detached housing</td>
-        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.45</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>8m</td>
-        <td>11.5m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>50%</td>
-        <td>35%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>6m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>2m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Duplex housing</td>
+            <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Accessory dwelling<br>Single detached housing</td>
+            <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.45</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>8m</td>
+            <td>11.5m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>50%</td>
+            <td>35%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>6m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>2m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00089</span>
@@ -4324,64 +5252,93 @@
             <Placemark id="ID_00090">
                 <name>34</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RMSI: Middle Springs I District
-        </td>
-        <td>
-                RRA: Rainbow Avenue District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RMSI: Middle Springs I District
+            </td>
+            <td>
+                    RRA: Rainbow Avenue District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Duplex housing</td>
-        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Accessory dwelling</td>
-        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.45</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>9m</td>
-        <td>11.5m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>50%</td>
-        <td>35%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>4m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>2m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Duplex housing</td>
+            <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Accessory dwelling</td>
+            <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.45</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>9m</td>
+            <td>11.5m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>50%</td>
+            <td>35%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>4m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>2m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00090</span>
@@ -4404,64 +5361,93 @@
             <Placemark id="ID_00091">
                 <name>35</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RMSI: Middle Springs I District
-        </td>
-        <td>
-                RRA: Rainbow Avenue District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RMSI: Middle Springs I District
+            </td>
+            <td>
+                    RRA: Rainbow Avenue District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Duplex housing</td>
-        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Accessory dwelling</td>
-        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.45</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>9m</td>
-        <td>11.5m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>50%</td>
-        <td>35%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>4m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>2m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Duplex housing</td>
+            <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Accessory dwelling</td>
+            <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.45</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>9m</td>
+            <td>11.5m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>50%</td>
+            <td>35%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>4m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>2m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00091</span>
@@ -4484,64 +5470,93 @@
             <Placemark id="ID_00092">
                 <name>36</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RMR: Marmot/ Rundle District
-        </td>
-        <td>
-                RCR: Cougar/ Rabbit District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RMR: Marmot/ Rundle District
+            </td>
+            <td>
+                    RCR: Cougar/ Rabbit District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Duplex housing</td>
-        <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Single detached housing<br>Accessory dwelling</td>
-        <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.7</td>
-        <td>1.6</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>9m</td>
-        <td>14.5m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>45%</td>
-        <td>30%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>4m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>1.8m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Duplex housing</td>
+            <td>Accessory dwelling housing<br>Apartment housing<br>Fourplex housing<br>Multiplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Single detached housing<br>Accessory dwelling</td>
+            <td>Assisted living housing            <br>Duplex housing                       <br>Single detached housing              <br>Triplex Housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.7</td>
+            <td>1.6</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>9m</td>
+            <td>14.5m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>45%</td>
+            <td>30%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>4m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>1.8m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00092</span>
@@ -4564,64 +5579,93 @@
             <Placemark id="ID_00093">
                 <name>37</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RTM: Tunnel Mountain District
-        </td>
-        <td>
-                RNC: North Central District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RTM: Tunnel Mountain District
+            </td>
+            <td>
+                    RNC: North Central District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Duplex housing</td>
-        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Accessory dwelling<br>Group homes<br>Triplex housing<br>Fourplex housing<br>Single detached housing</td>
-        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.6</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>9m</td>
-        <td>11.5m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>50%</td>
-        <td>35%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>4m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>1.8m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Duplex housing</td>
+            <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Accessory dwelling<br>Group homes<br>Triplex housing<br>Fourplex housing<br>Single detached housing</td>
+            <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.6</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>9m</td>
+            <td>11.5m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>50%</td>
+            <td>35%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>4m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>1.8m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00093</span>
@@ -4644,64 +5688,93 @@
             <Placemark id="ID_00094">
                 <name>38</name>
                 <snippet/>
-                <description><![CDATA[<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+                <description><![CDATA[<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-                RTM: Tunnel Mountain District
-        </td>
-        <td>
-                RNC: North Central District
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                    RTM: Tunnel Mountain District
+            </td>
+            <td>
+                    RNC: North Central District
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>Duplex housing</td>
-        <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>Accessory dwelling<br>Group homes<br>Triplex housing<br>Fourplex housing<br>Single detached housing</td>
-        <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>0.6</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>9m</td>
-        <td>11.5m</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>50%</td>
-        <td>35%</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>4m</td>
-        <td>4m</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>4.5m</td>
-        <td>2m</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>1.8m</td>
-        <td>1.8m</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>Duplex housing</td>
+            <td>Accessory dwelling housing<br>Fourplex housing<br>Multiplex housing       <br>Triplex housing</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>Accessory dwelling<br>Group homes<br>Triplex housing<br>Fourplex housing<br>Single detached housing</td>
+            <td>Apartment Housing <br>Assisted living housing<br>Duplex Housing<br>Single detached housing</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>0.6</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>9m</td>
+            <td>11.5m</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>50%</td>
+            <td>35%</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>4m</td>
+            <td>4m</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>4.5m</td>
+            <td>2m</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>1.8m</td>
+            <td>1.8m</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: ID_00094</span>

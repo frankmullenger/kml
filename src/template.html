@@ -1,69 +1,98 @@
-<table>
-    <tr>
-        <th></th>
-        <th>Current</th>
-        <th>Proposed</th>
-    </tr>
+<div class="content-scrollable">
+    <table>
+        <tr>
+            <th></th>
+            <th>Current</th>
+            <th>Proposed</th>
+        </tr>
 
-    <tr>
-        <td>LUB District</td>
-        <td>
-            {{#if (lookup . 'Current LUB District Link')}}
-                <a href="{{lookup . 'Current LUB District Link'}}" target="_blank" title="Current Land Use Bylaw">{{nl2br (lookup . 'Current LUB District')}}</a>
-            {{else}}
-                {{nl2br (lookup . 'Current LUB District')}}
-            {{/if}}
-        </td>
-        <td>
-            {{#if (lookup . 'Proposed LUB District Link')}}
-                <a href="{{lookup . 'Proposed LUB District Link'}}" target="_blank" title="Proposed Land Use Bylaw">{{nl2br (lookup . 'Proposed LUB District')}}</a>
-            {{else}}
-                {{nl2br (lookup . 'Proposed LUB District')}}
-            {{/if}}
-        </td>
-    </tr>
+        <tr>
+            <td>LUB District</td>
+            <td>
+                {{#if (lookup . 'Current LUB District Link')}}
+                    <a href="{{lookup . 'Current LUB District Link'}}" target="_blank" title="Current Land Use Bylaw">{{nl2br (lookup . 'Current LUB District')}}</a>
+                {{else}}
+                    {{nl2br (lookup . 'Current LUB District')}}
+                {{/if}}
+            </td>
+            <td>
+                {{#if (lookup . 'Proposed LUB District Link')}}
+                    <a href="{{lookup . 'Proposed LUB District Link'}}" target="_blank" title="Proposed Land Use Bylaw">{{nl2br (lookup . 'Proposed LUB District')}}</a>
+                {{else}}
+                    {{nl2br (lookup . 'Proposed LUB District')}}
+                {{/if}}
+            </td>
+        </tr>
 
-    <tr>
-        <td>Permitted<br/>Use</td>
-        <td>{{nl2br (lookup . 'Current Permitted Use')}}</td>
-        <td>{{nl2br (lookup . 'Proposed Permitted Use')}}</td>
-    </tr>
-    <tr>
-        <td>Discretionary<br/>Use</td>
-        <td>{{nl2br (lookup . 'Current Discretionary Use')}}</td>
-        <td>{{nl2br (lookup . 'Proposed Discretionary Use')}}</td>
-    </tr>
-    <tr>
-        <td>Max FAR</td>
-        <td>{{nl2br (lookup . 'Current Max FAR')}}</td>
-        <td>{{nl2br (lookup . 'Proposed Max FAR')}}</td>
-    </tr>
-    <tr>
-        <td>Max Height</td>
-        <td>{{nl2br (lookup . 'Current Max Height')}}</td>
-        <td>{{nl2br (lookup . 'Proposed Max Height')}}</td>
-    </tr>
-    <tr>
-        <td>Min Landscaping<br/>Requirement</td>
-        <td>{{nl2br (lookup . 'Current Min Landscaping Requirement')}}</td>
-        <td>{{nl2br (lookup . 'Proposed Min Landscaping Requirement')}}</td>
-    </tr>
-    <tr>
-        <td>Min Front Yard<br/>Setback</td>
-        <td>{{nl2br (lookup . 'Current Min Front Yard Setback')}}</td>
-        <td>{{nl2br (lookup . 'Proposed Min Front Yard Setback')}}</td>
-    </tr>
-    <tr>
-        <td>Min Rear Yard<br/>Setback</td>
-        <td>{{nl2br (lookup . 'Current Min Rear Yard Setback')}}</td>
-        <td>{{nl2br (lookup . 'Proposed Min Rear Yard Setback')}}</td>
-    </tr>
-    <tr>
-        <td>Min Side Yard<br/>Setback</td>
-        <td>{{nl2br (lookup . 'Current Min Side Yard Setback')}}</td>
-        <td>{{nl2br (lookup . 'Proposed Min Side Yard Setback')}}</td>
-    </tr>
-</table>
+        <tr>
+            <td>Permitted<br/>Use</td>
+            <td>{{nl2br (lookup . 'Current Permitted Use')}}</td>
+            <td>{{nl2br (lookup . 'Proposed Permitted Use')}}</td>
+        </tr>
+        <tr>
+            <td>Discretionary<br/>Use</td>
+            <td>{{nl2br (lookup . 'Current Discretionary Use')}}</td>
+            <td>{{nl2br (lookup . 'Proposed Discretionary Use')}}</td>
+        </tr>
+        <tr>
+            <td>Max FAR</td>
+            <td>{{nl2br (lookup . 'Current Max FAR')}}</td>
+            <td>{{nl2br (lookup . 'Proposed Max FAR')}}</td>
+        </tr>
+        <tr>
+            <td>Max Height</td>
+            <td>{{nl2br (lookup . 'Current Max Height')}}</td>
+            <td>{{nl2br (lookup . 'Proposed Max Height')}}</td>
+        </tr>
+        <tr>
+            <td>Min Landscaping<br/>Requirement</td>
+            <td>{{nl2br (lookup . 'Current Min Landscaping Requirement')}}</td>
+            <td>{{nl2br (lookup . 'Proposed Min Landscaping Requirement')}}</td>
+        </tr>
+        <tr>
+            <td>Min Front Yard<br/>Setback</td>
+            <td>{{nl2br (lookup . 'Current Min Front Yard Setback')}}</td>
+            <td>{{nl2br (lookup . 'Proposed Min Front Yard Setback')}}</td>
+        </tr>
+        <tr>
+            <td>Min Rear Yard<br/>Setback</td>
+            <td>{{nl2br (lookup . 'Current Min Rear Yard Setback')}}</td>
+            <td>{{nl2br (lookup . 'Proposed Min Rear Yard Setback')}}</td>
+        </tr>
+        <tr>
+            <td>Min Side Yard<br/>Setback</td>
+            <td>{{nl2br (lookup . 'Current Min Side Yard Setback')}}</td>
+            <td>{{nl2br (lookup . 'Proposed Min Side Yard Setback')}}</td>
+        </tr>
+    </table>
+</div>
+<div class="sidebar-footer">
+    <p>
+    <strong>Please note:</strong>
+    <br />
+    Uses: In addition to the permitted and discretionary uses noted above, other
+    uses, such as Home Occupations, Bed and Breakfast Homes and Inns, Public
+    Parks etc. vary across all districts and no changes are proposed to those
+    uses.
+    <br />
+    Max FAR: FAR means Floor Area Ratio which is the total floor area of all
+    levels of a buildings on a site, divided by the area of the site. Through
+    the current regulations, in order to build the maximum, specific conditions
+    must be met such as providing parking underground and/or for specific
+    housing types. The proposed changes would allow the maximum FAR when more
+    homes are proposed.
+    <br />
+    Max Height: The maximum building height is calculated to the mid-point of
+    the roof. For reference, 14.5 m allows for a 4 storey building.
+    <br />
+    Min Landscaping Requirement: The minimum landscaping requirement would
+    include hard surfaced amenity areas as well as all soft landscaped areas,
+    but wouldn't include driveways or surface parking areas.
+    <br />
+    Setbacks: The numbers above are the smallest permitted, however some of
+    these increase as the building gets higher.
+    </p>
+</div>
 
 <!--
 <span>Placemark ID: {{nl2br (lookup . 'Placemark ID')}}</span>
